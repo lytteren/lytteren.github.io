@@ -28,7 +28,7 @@ function getQuestion () {
 $(document).ready(function () {
 
 	respons = prompt('Пароль:');
-	if (respons == 12345) {
+	if (respons == '0420zxc0420') {
 		$('body').css({
 			'display': 'block',
 		})

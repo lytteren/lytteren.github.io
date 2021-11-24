@@ -10,20 +10,24 @@ body {
 }
 
 .wrapper {
+	padding: 55px;
 	display: flex;
-	/*justify-content: center;*/
+	justify-content: space-around;
 }
 
 .block {
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -50%);
+	position: relative;
 	background: #fff;
 	padding: 50px;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.12);
 	width: 550px;
 	min-height: 500px;
+	margin-bottom: 20px;
+	display: none;
+}
+
+.block-1 {
+	display: block;
 }
 
 .b-answers {
@@ -41,19 +45,17 @@ body {
 	transition: .3s ease;
 }
 
-.b-answers li.active.on {
+.b-answers li.true {
 	background: #6ECB63;
 	color: #fff;
 }
 
-.code-1 {
-	position: absolute;
-	left: 15px;
-	top: 15px;
+.b-answers li.false {
+	background: #E43D40;
+	color: #fff;
 }
 
-.code-2 {
-	position: absolute;
-	right: 15px;
-	top: 15px;
+.b-answers li.on {
+	background: #6ECB63;
+	color: #fff;
 }

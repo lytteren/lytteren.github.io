@@ -23,7 +23,7 @@ body {
 	padding: 50px;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.12);
 	width: 550px;
-	height: 450px;
+	min-height: 500px;
 }
 
 .b-answers {
@@ -41,7 +41,19 @@ body {
 	transition: .3s ease;
 }
 
-.b-answers li.active {
+.b-answers li.active.on {
 	background: #6ECB63;
 	color: #fff;
+}
+
+.code-1 {
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+
+.code-2 {
+	position: absolute;
+	right: 15px;
+	top: 15px;
 }

@@ -27,8 +27,8 @@ function getQuestion () {
 
 $(document).ready(function () {
 
-	respons = prompt('Пароль:');
-	if (respons == '0420zxc0420') {
+	// respons = prompt('Пароль:');
+	// if (respons == '0420zxc0420') {
 		$('body').css({
 			'display': 'block',
 		})
@@ -36,9 +36,9 @@ $(document).ready(function () {
 		$('body').on('click', '.b-answers li.active', function () {
 			getQuestion();
 		})
-	}
-	else {
-		window.location.reload();
-	}
+	// }
+	// else {
+	// 	window.location.reload();
+	// }
 
 })

@@ -19,7 +19,7 @@ $(document).ready(function () {
 			// console.log(el[5]);
 			$('.blocks').append($('<div>', {
 				'class': 'block block-' + i,
-				'text': el[0],
+				'text': el[0].replaceAll('"', ''),
 			})
 			.prepend($('<pre>', {
 				'text': 'Вопрос: ' + i

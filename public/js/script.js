@@ -18,7 +18,7 @@ $(document).ready(function () {
 			// console.log(el);
 			// console.log(el[5]);
 			$('.blocks').append($('<div>', {
-				'class': 'block block-' + i,
+				'class': 'p-5 col-md-12 col-11 block block-' + i,
 				'text': el[0].replaceAll('"', ''),
 			})
 			.prepend($('<pre>', {

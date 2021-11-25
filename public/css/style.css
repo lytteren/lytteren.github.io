@@ -7,21 +7,21 @@
 body {
 	display: none;
 	background: #E6E6E6;
-	overflow-y: hidden;
+	/*overflow-y: hidden;*/
 }
 
 .wrapper {
-	padding: 60px;
-	display: flex;
-	justify-content: space-around;
+	/*padding: 60px;*/
+/*	display: flex;
+	justify-content: space-around;*/
 }
 
 .block {
 	position: relative;
 	background: #fff;
-	padding: 50px;
+	/*padding: 50px;*/
 	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.12);
-	width: 550px;
+	/*width: 550px;*/
 	min-height: 500px;
 	margin-bottom: 20px;
 	display: none;

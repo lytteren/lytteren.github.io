@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>ИКТ</title>
 	<link rel="stylesheet" href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/themes/sunny/jquery-ui.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -11,17 +12,25 @@
 <body>
 
 	<div class="wrapper">
-		<div class="options">
-			<!-- <pre class="pre-1">Вопрос: 1</pre> -->
-			<pre class="pre-2">Правильных: 0</pre>
-			<form>
-				<div class="custom-control custom-switch">
-					<input type="checkbox" checked class="custom-control-input" id="switch1">
-					<label class="custom-control-label" for="switch1">Подсветка</label>
+		<div class="container">
+			<div class="row mt-md-5 mt-2">
+				<div class="col-md col-12 mb-3">
+					<div class="options">
+						<!-- <pre class="pre-1">Вопрос: 1</pre> -->
+						<pre class="pre-2">Правильных: 0</pre>
+						<form>
+							<div class="custom-control custom-switch">
+								<input type="checkbox" checked class="custom-control-input" id="switch1">
+								<label class="custom-control-label" for="switch1">Подсветка</label>
+							</div>
+						</form>
+					</div>
 				</div>
-			</form>
+				<div class="col-md col-12">
+					<div class="blocks row justify-content-center"></div>
+				</div>
+			</div>
 		</div>
-		<div class="blocks"></div>
 	</div>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

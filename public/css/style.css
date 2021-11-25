@@ -7,10 +7,11 @@
 body {
 	display: none;
 	background: #E6E6E6;
+	overflow-y: hidden;
 }
 
 .wrapper {
-	padding: 55px;
+	padding: 60px;
 	display: flex;
 	justify-content: space-around;
 }

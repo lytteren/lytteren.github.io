@@ -120,7 +120,7 @@
 "120. Which of these options is not a PaaS offering?"~ "<> IBM App Mix"~ "AWS Elastic Beanstalk"~ "Google App Engine"~ "Azure App Service"~ "Mozilla Fire Fox"
 "121. According to what's known as the shared responsibility modelin public      cloud, which of the following components are cloud customers -- not providers -- responsible for?"~ "<> The security of users' data"~ "The security and maintenance of underlying hardware, such as servers"~ "The physical security of cloud data centers"~ "The provider is responsible for all components above"~ "The security and maintenance of underlying software, such as servers"
 "122. The services of the Internet:"~ "<> FTP (file Transfer Protocol), WWW (World Wide Web)"~ "MS Access"~ "CSS"~ "MSWord"~ "MS Power Point"
-"123. Specify HTML Tags for the drawing table: "~ "<> <table><tr><td>"~ "<body><html>"~ "<img><height>"~ "<a href><head><title>"~ "<type><html>"
+"123. Specify HTML Tags for the drawing table: "~ "<> &lt;table&gt;&lt;tr&gt;&lt;td&gt;"~ "&lt;body&gt;&lt;html&gt;"~ "&lt;img&gt;&lt;height&gt;"~ "&lt;a href&gt;&lt;head&gt;&lt;title&gt;"~ "&lt;type&gt;&lt;html&gt;"
 "124. Specify programming languages for creating web pages:"~ "<> CSS, HTML"~ "SQL"~ "MS Office"~ "Paint"~ "Adobe Premiere"
 "125. A classification of types of sites"~ "<> CSS, HTML"~ "SQL"~ "MS Office"~ "Paint"~ "Adobe Premiere"
 "126. Define the client -server technology"~ "<> Client-server is a computer model that separates client and server, and usually interlinked using a computer network"~ "The security and maintenance of underlying hardware, such as servers"~ "The provider is responsible for all components above."~ "The security and maintenance of underlying software, such as servers"~ "Adobe Premiere"

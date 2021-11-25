@@ -76,7 +76,10 @@ $(document).ready(function () {
 			'display': 'block',
 			'pointer-events': 'none',
 		})
-		$('li.active').addClass('true')
+		$('li.active').addClass('true');
+		$('body').css({
+			'overflow-y': 'scroll',
+		})
 	})
 
 		setInterval(function () {

@@ -1,3 +1,4 @@
+<eng>
 <p><strong>1. Choose the right variant. Make up the sentence:  children, like, play, to, football, many. </strong> - 6,1,2,4,3,5</p>
 <p><strong>2. Make up the sentence:  project, very, is, interesting, this.</strong> - 5,1,3,2,4.</p>
 <p><strong>3. Choose the right variant in Present Perfect : We … bought a lot of flowers for our teacher.</strong> - have</p>
@@ -21,13 +22,13 @@
 <p><strong>21. Choose the antonym: silence. </strong> - noise. </p>
 <p><strong>22. Choose the antonym: enemy.</strong> - friend.</p>
 <p><strong>23. Choose the antonym:  tragedy. </strong> - comedy.</p>
-<p><strong>24. Choose   the right variant: I saw … in the library.</strong> - him.</p>
-<p><strong>25. Choose   the right variant: Your room is larger than ….</strong> - mine.</p>
-<p><strong>26. Choose   the right variant: You can translate this text….</strong> - yourself.</p>
-<p><strong>27. Choose   the right variant: My sister cooks breakfast for ….</strong> - us.</p>
-<p><strong>28. Choose   the right variant: Tell me … address, please.</strong> - your.</p>
+<p><strong>24. Choose the right variant: I saw … in the library.</strong> - him.</p>
+<p><strong>25. Choose the right variant: Your room is larger than ….</strong> - mine.</p>
+<p><strong>26. Choose the right variant: You can translate this text….</strong> - yourself.</p>
+<p><strong>27. Choose the right variant: My sister cooks breakfast for ….</strong> - us.</p>
+<p><strong>28. Choose the right variant: Tell me … address, please.</strong> - your.</p>
 <p><strong>29. Choose the right variant: We must translate this text….</strong> - ourselves.</p>
-<p><strong>30. Choose   the right variant: Strong families also speak about … problems.</strong> - their.</p>
+<p><strong>30. Choose the right variant: Strong families also speak about … problems.</strong> - their.</p>
 <p><strong>31. Choose the right variant: Asem has got … apple. </strong> - an </p>
 <p><strong>32. Choose the right variant: … room is too small. </strong> - the </p>
 <p><strong>33. Choose the right variant: The desk is in … corner of … room. </strong> - a/the </p>
@@ -56,7 +57,7 @@
 <p><strong>56.Choose the antonym: get on.</strong> - get off</p>
 <p><strong>57. Choose the antonym: get married.</strong> - get divorced</p>
 <p><strong>58. Choose the antonym: turn off. </strong> - turn on</p>
-<p><strong>59. Choose   the right variant: Two thousand and twelve.</strong> - 2012.</p>
+<p><strong>59. Choose the right variant: Two thousand and twelve.</strong> - 2012.</p>
 <p><strong>60. Find the plural form of the word: mouse.</strong> - mice.</p>
 <p><strong>61. Choose the right variant: We…..lectures and tutorials every day.</strong> - have</p>
 <p><strong>62. Choose the right variant: It was Sunday and we … classes.</strong> - didn’t have</p>
@@ -86,11 +87,11 @@
 <p><strong>86. Choose the antonym: boring.</strong> - ineresting</p>
 <p><strong>87.Choose the antonym: lend.</strong> - borrow</p>
 <p><strong>88. Choose the antonym: dangerous.</strong> - safe </p>
-<p><strong>89. Choose   the right variant: “ three hundred and seventy. five ”.</strong> - 375.</p>
-<p><strong>90. Choose   the right variant: «three hundred and five».</strong> - 305.</p>
+<p><strong>89. Choose the right variant: “ three hundred and seventy. five ”.</strong> - 375.</p>
+<p><strong>90. Choose the right variant: «three hundred and five».</strong> - 305.</p>
 <p><strong>91.Choose the right variant: There is (көп, много)snow in the streets.</strong> - much</p>
-<p><strong>92. Choose   the right variant: “ two thousand and five ”.</strong> - 2005.</p>
-<p><strong>93. Choose   the right variant: менің әкпемнің достары. друзья моей сестры. </strong> - my sister’s friends.</p>
+<p><strong>92. Choose the right variant: “ two thousand and five ”.</strong> - 2005.</p>
+<p><strong>93. Choose the right variant: менің әкпемнің достары. друзья моей сестры. </strong> - my sister’s friends.</p>
 <p><strong>94. Choose the right variant: Our classes begin … the morning.</strong> - in</p>
 <p><strong>95.Choose the right variant: Sit…</strong> - down</p>
 <p><strong>96.Choose the right variant: They will come … Tuesday </strong> - on</p>
@@ -113,19 +114,13 @@
 <p><strong>113. Choose the right variant: You know Kazakh … than your father.</strong> - worse</p>
 <p><strong>114. Choose the right variant: Paris is … than London.</strong> - more beautiful</p>
 <p><strong>115. Choose the right variant: The Aral is … sea in the world. </strong> - the smallest</p>
-<p><strong>116. Choose   the right answer. словарь студента. білімгердің сөздігі. </strong> - the student's dictionary.</p>
-<p><strong>117. Choose   the right answer. отец моего друга. менің досымның әкесі. </strong> - my friend’s father.</p>
-<p><strong>118. Choose   the right variant. детский магазин. балалар дүкені.</strong> - children’s shop.</p>
+<p><strong>116. Choose the right answer. словарь студента. білімгердің сөздігі. </strong> - the student's dictionary.</p>
+<p><strong>117. Choose the right answer. отец моего друга. менің досымның әкесі. </strong> - my friend’s father.</p>
+<p><strong>118. Choose the right variant. детский магазин. балалар дүкені.</strong> - children’s shop.</p>
 <p><strong>119. Choose the right  translation:  второй.</strong> - the second.</p>
 <p><strong>120. Choose the right variant: Would you like … cup of coffee? </strong> - a</p>
-
-
-
-
-
-
-
-
+<eng>
+<ict_e>
 <p><strong>1. Special type of memory which is used by BIOS:</strong> ROM</p>
 <p><strong>2. Cloud computing has the following features:</strong> dynamic resource allocation (scalability)</p>
 <p><strong>3. The attributes of the vertical alignment of the table on the page are:</strong> Bottom</p>
@@ -225,7 +220,7 @@
 <p><strong>97. The identifier of information objects is...</strong> a number, a string or analgorithm</p>
 <p><strong>98. Representing data by assigning a code to it for classification or identification is known as ...:</strong> Coding</p>
 <p><strong>99. Symmetric encryption is the oldest method of encryption that ...</strong> requires both the sender and recipient to possess the secret encryption and decryptionkey</p>
-<p><strong>100.   ...... is the encryption standard used for secure web pages</strong> HTTPS</p>
+<p><strong>100. ...... is the encryption standard used for secure web pages</strong> HTTPS</p>
 <p><strong>101. Disk cryption will..</strong> encrypt every single bit of data stored on adisk, Encrypt data stored on disk.</p>
 <p><strong>102. Storing data in a specific format is:</strong> Encoding</p>
 <p><strong>103. Scrambling data so it cannot be understood without a decryption key to make it unreadable if intercepted, it is:</strong> Encryption</p>
@@ -234,7 +229,7 @@
 <p><strong>106. Client-server technology is divided into following categories: </strong> Servers, Customers</p>
 <p><strong>107. The functions of Web-servers are: </strong> The authentication of users</p>
 <p><strong>108. An utility -  </strong> is the packaging of the computing resources, such as computation and storage, as a metered service similar to a traditional public utility</p>
-<p><strong>109. A   _______________  is a group of linked computers, working together closely so that in many respects they form a single computer </strong> computer cluster</p>
+<p><strong>109. A _______________  is a group of linked computers, working together closely so that in many respects they form a single computer </strong> computer cluster</p>
 <p><strong>110. Find the working models of the cloud computing:</strong> deployment and service models,</p>
 <p><strong>111. A hybrid cloud –</strong> is the mixture private and public cloud</p>
 <p><strong>112. PaaS means:</strong> Platform as a Service</p>
@@ -246,7 +241,7 @@
 <p><strong>118. Which of the following statements could be used to describe a private cloud deployment?</strong> Both #A and #A</p>
 <p><strong>119. Amazon Elastic Compute Cloud (EC2) is primarily considered which type of cloud computing model</strong> Infrastructure as a service (IaaS)</p>
 <p><strong>120. Which of these options is not a PaaS offering?</strong> IBM App Mix</p>
-<p><strong>121. According to what's known as the shared responsibility modelin public      cloud, which of the following components are cloud customers -- not providers -- responsible for?</strong> The security of users' data</p>
+<p><strong>121. According to what's known as the shared responsibility modelin public  cloud, which of the following components are cloud customers -- not providers -- responsible for?</strong> The security of users' data</p>
 <p><strong>122. The services of the Internet:</strong> FTP (file Transfer Protocol), WWW (World Wide Web)</p>
 <p><strong>123. Specify HTML Tags for the drawing table: </strong> &lt;table&gt;&lt;tr&gt;&lt;td&gt;</p>
 <p><strong>124. Specify programming languages for creating web pages:</strong> CSS, HTML</p>
@@ -290,13 +285,13 @@
 <p><strong>162. How many megabytes in one gigabyte:</strong> 1024</p>
 <p><strong>163. It is the basis of the economy of any country, because a huge tumover of money is volved in these circles:</strong> Medium Business </p>
 <p><strong>164. A wireless network that connects a computer to its peripherals </strong> Local Networks </p>
-<p><strong>165. This tool        in the Word environment is used to:</strong> select text highlight color </p>
+<p><strong>165. This tool    in the Word environment is used to:</strong> select text highlight color </p>
 <p><strong>166. Blockchain technology is based on the following principles.</strong> security, openness, distribution</p>
 <p><strong>167. Find input devices:</strong> keyboard</p>
 <p><strong>168. The following security mechanisms should be provided in automated information systems in which implemented program or information security cryptography hardware means are realized in case of information storage and processing:</strong> access to data</p>
 <p><strong>169. 'Physical topology' - this term can be replaced by? </strong> Physical network</p>
 <p><strong>170. Web standards are made by:</strong> Microsoft </p>
-<p><strong>171. A part  of  search engine  that looks  for  your  search  terms  in  the  search  engine’s   indexed  database  and   returns  a  list  of  relevant Web  sites.</strong> Web  crawler</p>
+<p><strong>171. A part  of  search engine  that looks  for  your  search  terms  in  the  search  engine’s indexed  database  and returns  a  list  of  relevant Web  sites.</strong> Web  crawler</p>
 <p><strong>172. ________factual information (as measurements or statistics) used as a basis  for reasoning, discussion, or calculation</strong> Data management</p>
 <p><strong>173. The heart (and brains) of the computer is the...</strong> CPU</p>
 <p><strong>174. Most common forms of Internet commerce:</strong> placement of a large volume of information on one page, a managed selection and data output on the page in many parameters chosen by the user, commercial transactions</p>
@@ -402,7 +397,7 @@
 <p><strong>275. What does USB stand for?</strong> Universal Serial Bus</p>
 <p><strong>276. Find the equivalents of the number 8₍₁₀₎ in 2, 8 number systems:</strong> 1000 и 10</p>
 <p><strong>277. Decimal number corresponds to the binary number 1000 00002  has the form:</strong> 128₁₀</p>
-<p><strong>278. Decimal number corresponds to the binary number 1000002    has the form:</strong> 32₁₀</p>
+<p><strong>278. Decimal number corresponds to the binary number 1000002  has the form:</strong> 32₁₀</p>
 <p><strong>279. This computer language, which controlled a mechanical 'turtle,' was developed for children.</strong> LOGO</p>
 <p><strong>280. Microsoft distributed 450,000 disks of this new product in the November 1983 issue of 'PC World' magazine.</strong> Word</p>
 <p><strong>281. Who designed the Linux operating system?</strong> Linus Torvalds</p>
@@ -425,3 +420,305 @@
 <p><strong>298. Convert from Octal to Binary number system: 751</strong> 111101001</p>
 <p><strong>299. Convert from Octal to Binary number system: 453</strong> 100101011</p>
 <p><strong>300. Among the entries, specify the correct IP address of the computer:</strong> 198.14.18.216</p>
+<ict_e>
+<ict_r>
+<p><strong>1. Специальный тип памяти, используемый BIOS:</strong> ПЗУ</p>
+<p><strong>2. Облачные вычисления обладают следующими функциями:</strong> динамическое распределение ресурсов (масштабируемость)</p>
+<p><strong>3. Атрибутами вертикального выравнивания таблицы на странице являются:</strong> Дно</p>
+<p><strong>4. Форматы растровой графики включают:</strong> PNG</p>
+<p><strong>5. Подходящие функции жесткого диска:</strong> 120 Гб</p>
+<p><strong>6. Схематическое описание сетевой компоновки, соединяющей различные узлы (отправителя и получателя) по линиям связи:</strong> топология</p>
+<p><strong>7. Компоненты облака Майкрософт:</strong> Windows Azure</p>
+<p><strong>8. Сердце (и мозг) компьютера-это...процессор</strong> ГРАФИЧЕСКИЙ интерфейс</p>
+<p><strong>9. Рабочая станция:</strong> мощные настольные компьютеры, используемые для высокопроизводительных задач</p>
+<p><strong>10. Выберите сети по типу передачи среды:</strong> оптическое волокно</p>
+<p><strong>11. Мобильная операционная система, разработанная Google на основе ядра Linux и предназначенная в основном для мобильных устройств с сенсорным экраном, таких как смартфоны и планшеты:</strong> Android</p>
+<p><strong>12. Характеристикитехнологии clou d, когда услуги, доступные потребителю через сеть передачи данных, используются независимо от терминального устройства:</strong> Вычислительные ресурсы самообслуживания (эластичность).</p>
+<p><strong>13. В соответствии с используемой технологией поиска IP можно разделить на категории:</strong> Настольные компьютеры</p>
+<p><strong>14. В базе данных гипермедиа информационные биты хранятся в виде:</strong> Узлы</p>
+<p><strong>15. Средства защиты могут быть классифицированы на:</strong> криптографические средства</p>
+<p><strong>16. Средства информационной безопасности могут быть классифицированы на:</strong> интеллектуальные средства, дополнительные средства, аппаратные средства</p>
+<p><strong>17. Наиболее опасные виды сетевых атак:</strong> межсайтовые сценарии или XSS</p>
+<p><strong>18) Компьютер способен запускать несколько приложений одновременно:</strong> mконечная задача, mконечная обработка</p>
+<p><strong>19. Выберите устройства, целью которых является расширение размера сети в текущей среде:</strong> Модель TCP/IP, протокол</p>
+<p><strong>20. Информацию можно разделить на типы в зависимости от способа восприятия:</strong> тактильные, визуальные, звуковые</p>
+<p><strong>21. Информация может быть разделена на типы в зависимости от значения:</strong> релевантный, точный, полный</p>
+<p><strong>22. Введение в компьютерные системы. Архитектура компьютерных систем.Процессор, используемый для... </strong> сложные расчеты</p>
+<p><strong>23. Компьютеры могут хранить и обрабатывать ... систему счисления:</strong> hэксадецимальная</p>
+<p><strong>24. Тип компьютерных компонентов, которые являются материальными:</strong> баскет</p>
+<p><strong>25. Часть компьютерной составляющей, которая принимает логические решения, сложные вычисления:</strong> Процессор</p>
+<p><strong>26. Физические части компьютерной системы:</strong> hardware</p>
+<p><strong>27. Устройство ввода:</strong> клавиатура, mмикрофон</p>
+<p><strong>28. Нематериальный набор инструкций, которые сообщают компьютеру, что делать:</strong> процесс</p>
+<p><strong>29. Компонент компьютера, который использует для хранения программ и данных:</strong> кeyboard</p>
+<p><strong>30. Компьютерные программы не могут работать самостоятельно без:</strong> Системное программное обеспечение</p>
+<p><strong>31. Классификация системного программного обеспечения:</strong> Операционная система, Драйверы устройств, Программное обеспечение</p>
+<p><strong>32. Веб-браузеры используются для:</strong> доступ в Интернет</p>
+<p><strong>33. С помощью этого устройства можно выбирать объекты и управлять ими на экране:</strong> использование</p>
+<p><strong>34. Прикладным программным обеспечением является:</strong> Базовое программное обеспечение</p>
+<p><strong>35. Компьютерное оборудование определяется в следующих вариантах… </strong> Интернет</p>
+<p><strong>36. В современных компьютерах дискеты почти никогда не используются. Вместо этого используется один из следующих вариантов...</strong> Компакт-диск, флешки, DVD</p>
+<p><strong>37. Созданная компанией MAC OS была…  </strong> Macintosh, Apple</p>
+<p><strong>38. Какие операционные системы используются чаще всего?</strong> Microsoft Windows, IOS</p>
+<p><strong>39. Известно ... основные функции в BIOS</strong> 3</p>
+<p><strong>40. Прямые дороги-это...</strong> Альтернативная строка для этого файла</p>
+<p><strong>41. Система, которая отвечает за хранение информации о программах, использующих часть памяти в любое время</strong> Интерфейс Прикладной Программы</p>
+<p><strong>42. Название инструмента для работы с огромным объемом правовой информации, поступающей непрерывным потоком, таково:</strong> AP справочных правовых систем</p>
+<p><strong>43. Фиксированное количество байтов в секторах равно...</strong> 512</p>
+<p><strong>44. Набор команд, управляющих компьютером операции:</strong> Программное обеспечение</p>
+<p><strong>45. Датой изобретения Windows 1 является:</strong> 1985 год</p>
+<p><strong>46. Необязательный идентификатор файла:</strong> Расширение файла</p>
+<p><strong>47. Интерфейс, который имеет графику: </strong> графический, окна</p>
+<p><strong>48.  The Термин мультимедийный:</strong> IЭто область, связанная с компьютерной интеграцией текста, графики, рисунков, неподвижных и движущихся изображений (видео), анимации, аудио и любых других носителей, где каждый тип информации может быть представлен, сохранен, передан и обработан в цифровом виде.</p>
+<p><strong>49. Найдите мультимедийный файл</strong> .mp3,.mp4, .avi, .wmv</p>
+<p><strong>50. Выберите программу для создания мультимедийных презентаций</strong> Microsoft Power Point</p>
+<p><strong>51. Назовите классификацию мультимедиа:</strong> Презентации, компьютерная графика</p>
+<p><strong>52. Укажите виды компьютерной графики:</strong> Вектор, Растр</p>
+<p><strong>53. Укажите цветовую модель в компьютерной графике:</strong> RGB, CMYK</p>
+<p><strong>54. Graphic file Форматы графических файлов:</strong> .png, .jpeg</p>
+<p><strong>55. Укажите элементы мультимедийных презентаций:</strong> Видео/аудио, theиллюстрации к изображению</p>
+<p><strong>56. Укажите форматы звуковых файлов:</strong> .wav, .mp3</p>
+<p><strong>57. Укажите форматы видеофайлов:</strong> .mpeg 4, .avi</p>
+<p><strong>58. Преимущества мультимедийных технологий заключаются в</strong> интерактивность</p>
+<p><strong>59. База данных-это...</strong> Сбор организованных данных, который обеспечивает доступ, извлечение и использование данных аn организованный массив связанной информации, организованный таким образом, чтобы обеспечить доступ, извлечение и использование этих данных</p>
+<p><strong>60. Система управления базами данных-это...</strong> Пакет программного обеспечения, предназначенный для определения, управления, извлечения и управления данными в базеданных, который создает, считывает, обновляет и удаляет данные в базе данных при управлении доступом и безопасностью.</p>
+<p><strong>61. Выберите функции системы управления базами данных.</strong> Создание, целостность, управление данными</p>
+<p><strong>62. Выберите компоненты системы управления базами данных</strong> Оборудование, Программноеобеспечение, Данные</p>
+<p><strong>63. Выберите основной компонент СУБД, программу, которая управляет всем.</strong> Программное обеспечение</p>
+<p><strong>64. Язык доступа к базе данных...</strong> Это простой язык, предназначенный для записи команд для доступа, вставки, обновления и удаления данных, хранящихся в любой базеданных, созданный для записи команд, вставки, обновления, удаления в базе данных</p>
+<p><strong>65. Сетевые базы данных организуют данные в ...  в которых типы объектов являются узлами, а типы отношений-дугами.</strong> Структура графика</p>
+<p><strong>66. Выберите примеры реляционных баз данных.</strong> SQL Server, DB2, Oracle</p>
+<p><strong>67. Систему управления базами данных можно разделить на ... основные компоненты.</strong> 5</p>
+<p><strong>68. Системы баз данных подразделяются на ... типы на основе базовой структуры, используемой для хранения данных.</strong> 4</p>
+<p><strong>69. Современные СУБД обычно полагаются на ...</strong> Стандартная операционная система</p>
+<p><strong>70. Интеллектуальный анализ данных-это ...</strong> процесс выполнения автоматизированного извлечения и генерации прогнозной информации из больших банков данных</p>
+<p><strong>71. Интеллектуальный анализ данных-это ...</strong> древовидная структура, представляющая собой прогностическую модель</p>
+<p><strong>72. Модели интеллектуального анализа данных</strong> Прогнозирование</p>
+<p><strong>73. К основным видам прибыльного электронного бизнеса относятся:</strong> электронная коммерция electro, электронные банки, электронный маркетинг</p>
+<p><strong>74. Электронное правительство:</strong> Форма организации деятельности органов государственной власти, единый механизм взаимодействия государства и граждан.</p>
+<p><strong>75. Электронная технология-это ...:</strong> наука, основанная на использовании потоков электронов и ионов в электрических и магнитных полях для обработки и преобразования материала</p>
+<p><strong>76. Электронные технологии включают:</strong> Интернет, Cинтернет-пространство</p>
+<p><strong>77. E Электронное обучение ...:</strong> система обучения с использованием информационных и электронных технологий.</p>
+<p><strong>78. Услуги интернет-банка включают в себя:</strong> Выписки по счетам, Конвертация средств</p>
+<p><strong>79. Статические методы, используемые в интеллектуальном анализе данных...</strong> Оценка баллов, проверка гипотезы</p>
+<p><strong>80. Электронное обучение включает в себя:</strong> Самостоятельная работа с электронными материалами, получение консультаций, оценок от удаленного преподавателя, своевременная круглосуточная доставка электронных учебных материалов</p>
+<p><strong>81. электронная безопасность-это ...:</strong> пакет программного обеспечения, обеспечивающий безопасность взаимодействия клиента с сервером приложений</p>
+<p><strong>82. Машинное обучение-это ...</strong> процесс создания компьютерных систем и системы, способной самостоятельно собирать данные</p>
+<p><strong>83. Занятия по электронному банкингу:</strong> Интернет - торговля</p>
+<p><strong>84. Статические методы, используемые в интеллектуальном анализе данных...</strong> Оценка баллов, проверка гипотезы</p>
+<p><strong>85. Типы физической топологии</strong> автобус, звезда</p>
+<p><strong>86. Устройство сетей, подключение компьютеров локальной сети к глобальной сети</strong> Маршрутизатор </p>
+<p><strong>87. ВАН это.....</strong> Широкая сеть</p>
+<p><strong>88. В качестве базовой классификации будет взята графическая шкала. С этого момента компьютерные сети делятся на:</strong> ЛАН, КАН, РАН</p>
+<p><strong>89. WPAN, другими словами, это....</strong> Синезубый</p>
+<p><strong>90. Локальными сетями являются:</strong> соединяет компьютеры, размещенные в помещении или здании, с помощью кабелей</p>
+<p><strong>91. WLAN-это......</strong> Беспроводная локальная сеть</p>
+<p><strong>92. Информационная безопасность-это.......</strong> состояние информационной безопасности организаций</p>
+<p><strong>93. Защищенный протокол связи в системе "Клиент-сервер" через Интернет:</strong> SSL</p>
+<p><strong>94. Клиент подтверждает идентификацию, предоставляя неузнаваемую информацию другим потребителям, это ..</strong> проверка подлинности</p>
+<p><strong>95. Основные объекты информационной безопасности:</strong> Компьютерные сети, базы данных</p>
+<p><strong>96. Расширяемая схема асимметричной криптосистемы, работающей с открытым ключом, сколько ключей используется в криптографической системе</strong> 3</p>
+<p><strong>97. Идентификатором информационных объектов является...</strong> число, строка или аналгоритм</p>
+<p><strong>98. Представление данных путем присвоения им кода для классификации или идентификации известно как ...:</strong> Кодирование</p>
+<p><strong>99. Симметричное шифрование является старейшим методом шифрования, который ...</strong> требуется, чтобы как отправитель, так и получатель обладали ключом секретного шифрования и расшифровки</p>
+<p><strong>100.    ...... является ли стандарт шифрования, используемый для безопасных веб-страниц</strong> HTTPS</p>
+<p><strong>101. Расшифровка диска будет..</strong> зашифруйте каждый бит данных, хранящихся на adisk, зашифруйте данные, хранящиеся на диске.</p>
+<p><strong>102. Хранение данных в определенном формате-это:</strong> Кодирование</p>
+<p><strong>103. Шифрование данных таким образом, чтобы их нельзя было понять без ключа дешифрования, чтобы сделать их нечитаемыми в случае перехвата, это:</strong> Шифрование</p>
+<p><strong>104. Меры защиты в Интернете: </strong> Установите брандмауэры, используйте надежные пароли</p>
+<p><strong>105. Меры защиты в Интернете: </strong> Не открывайте электронные письма от неизвестных подозрительных отправителей, используйте надежные пароли</p>
+<p><strong>106. Технология Клиент-сервер делится на следующие категории: </strong> Серверы, Клиенты</p>
+<p><strong>107. Функциями веб-серверов являются: </strong> Аутентификация пользователей</p>
+<p><strong>108. Полезность -</strong> это упаковка вычислительных ресурсов, таких как вычисления и хранение, в виде дозированной услуги, аналогичной традиционной коммунальной услуге</p>
+<p><strong>109. А _______________ это группа связанных компьютеров, тесно работающих вместе, так что во многих отношениях они образуют единый компьютер</strong> компьютерный кластер</p>
+<p><strong>110. Найдите рабочиемодели облачных вычислений:</strong> модели развертывания и обслуживания,</p>
+<p><strong>111. Гибридное облако –</strong> является ли сочетание частного и публичного облака</p>
+<p><strong>112. PaaS означает:</strong> Платформа как услуга</p>
+<p><strong>113. Особенности облачных вычислений:</strong> Качество обслуживания и масштабируемость, а также Услуги по запросу</p>
+<p><strong>114. Все пользователи могут получить доступ к облачным сервисам</strong> Публичные</p>
+<p><strong>115. Облачные сервисы доступны для специальной группы пользователей</strong> Частные</p>
+<p><strong>116. Модель облачных вычислений может рассматриваться как комбинация _____моделей доставки и _ _ _ _ _ _ моделей развертывания</strong> 3,4</p>
+<p><strong>117. Когда речь заходит о тенденциях в области облачных вычислений, какова самая большая проблема, на которую ссылаются лица, принимающие решения в области ИТ, при работе в среде гибридных облачных вычислений:</strong> Управление большим количеством систем</p>
+<p><strong>118. Какие из следующих утверждений можно использовать для описания развертывания частного облака?</strong> Как #А, так и #А</p>
+<p><strong>119. Amazon Elastic Compute Cloud (EC2) в первую очередь рассматривает, какой тип модели облачных вычислений</strong> Инфраструктура как услуга (IaaS)</p>
+<p><strong>120. Какой из этих вариантов не является предложением PaaS?</strong> IBM App Mix</p>
+<p><strong>121. В соответствии с так называемой моделью общей ответственности публичного облака, за какие из следующих компонентов отвечают облачные клиенты, а не поставщики?</strong> Безопасность пользовательских данных</p>
+<p><strong>122.  Услуги Интернета:</strong> FTP (протокол передачи файлов), WWW (Всемирная паутина)</p>
+<p><strong>123. Укажите HTML-теги для таблицы чертежей: </strong> <таблица><таблица><tr><tr><td><td></p>
+<p><strong>124. Укажите языки программирования для создания веб-страниц:</strong> CSS, HTML</p>
+<p><strong>125. Классификация типов участков</strong> CSS, HTML</p>
+<p><strong>126. Определите технологию клиент -сервер</strong> Клиент-сервер-это компьютерная модель, которая разделяет клиента и сервер и обычно связана между собой с помощью компьютерной сети</p>
+<p><strong>127. Основные сервисы Интернета: </strong> WWW (Всемирная паутина), FTP (протокол передачи файлов)</p>
+<p><strong>128. Меры защиты в Интернете: </strong> Установите брандмауэры, используйте надежные пароли</p>
+<p><strong>129. Меры защиты в Интернете: </strong> Не открывайте электронные письма от неизвестных подозрительных отправителей, используйте надежные пароли</p>
+<p><strong>130. Меры защиты в Интернете: </strong> Не отправляйте и не вводите пароль в своих аккаунтах для подозрительных сайтов, используйте надежные пароли</p>
+<p><strong>131. IaaS состоит из трех основных компонентов:</strong> Аппаратные средства и Операционные системы, а также системное программное обеспечение</p>
+<p><strong>132. Недостатки и проблемы облачных вычислений</strong> Безопасность, постоянное сетевое подключение и зависимость от облачного провайдера</p>
+<p><strong>133. Типы моделей развертывания облачных вычислений</strong> Публичный и гибридный</p>
+<p><strong>134. Уровни обслуживания облачных вычислений</strong> PaaS и SaaS</p>
+<p><strong>135. Центры обработки данных включают в себя</strong> программноеобеспечение, система мониторинга и управления</p>
+<p><strong>136. Минимальная единица информации:</strong> Немного</p>
+<p><strong>137. Набор программных приложений, продаваемых в виде единого пакета</strong> Microsoft Office</p>
+<p><strong>138. Основные категории программного обеспечения</strong> Прикладное программноеобеспечение, Системное программное обеспечение</p>
+<p><strong>139. Устройства, которые позволяют вам сохранить ваш файл, а затем взять файл с собой для доступа на другом компьютере</strong> карта памяти</p>
+<p><strong>140. Объект, который позволяет создавать формулы в документе MS Word, называется:</strong> Уравнение Microsoft</p>
+<p><strong>141. “Умный город” использует такие основные факторы, как мы:</strong> Снижение уровня шума, экономичность, Безопасность, экологичность и экономичность</p>
+<p><strong>142. Услуги электронной почты:</strong> Г – почта</p>
+<p><strong>143. Пожалуйста, выберите неправильные утверждения:</strong> При использовании MS Word вы не можете распечатать свой документ</p>
+<p><strong>144. Выберите примеры PaaS:</strong> Приложения Google</p>
+<p><strong>145. В Microsoft Access файлы имеют расширение по умолчанию:</strong> .accdb</p>
+<p><strong>146. Программа MS Power Point включает режимы отображения документа</strong> просмотр слайд-шоу</p>
+<p><strong>147. Базовая система счисления -16</strong> Шестнадцатеричный</p>
+<p><strong>148. Программа доступа:</strong> СУБД, реляционная БД</p>
+<p><strong>149. Телеконференция-это:</strong> система обмена информацией между абонентами компьютерной сети</p>
+<p><strong>150. Выберите программу для создания текстовых документов</strong> Microsoft Word</p>
+<p><strong>151. Выберите возможные форматы для графических файлов:</strong> bmp, jpg</p>
+<p><strong>152. MS Excel, Значение логического выражения =3>9></strong> ЛОЖНЫЕ</p>
+<p><strong>153. КПК-это:</strong> Персональный цифровой помощник</p>
+<p><strong>154. Этот лот в слове окружающая среда используется для:</strong> показать все скрытые символы</p>
+<p><strong>155. Выберите типы сетей по скорости передачи информации:</strong> высокая скорость</p>
+<p><strong>156. Тип программного обеспечения предназначен для защиты компьютеров от различных вредоносных программ и несанкционированных инструкций</strong> Безопасность, Полезность</p>
+<p><strong>157. Этапы разработки веб-сайта/приложения/программного обеспечения:</strong> Эффективность, Исследования + Дизайн</p>
+<p><strong>158. Правильное определение системы баз данных:</strong> компьютеризированная система структурных данных</p>
+<p><strong>159. Расположите измерения в порядке возрастания:</strong> Байт, Кб, Мб, Гб</p>
+<p><strong>160. Переведите десятичное число 2137 в восьмеричную систему счисления:</strong> 4131</p>
+<p><strong>161. Особенности MS DOS:</strong> Однопользовательский</p>
+<p><strong>162. Сколько мегабайт в одном гигабайте:</strong> 1024</p>
+<p><strong>163. Это основа экономики любой страны, потому что в этих кругах крутится огромное количество денег:</strong> Средний Бизнес</p>
+<p><strong>164. Беспроводная сеть, которая соединяет компьютер с его периферийными устройствами</strong> Локальные сети</p>
+<p><strong>165. Этот инструмент  в среде Word используется для:</strong> выберите цвет выделения текста</p>
+<p><strong>166. Технология блокчейн основана на следующих принципах.</strong> безопасность, открытость, распространение</p>
+<p><strong>167. Найдите устройства ввода:</strong> клавиатура</p>
+<p><strong>168. В автоматизированных информационных системах, в которых при хранении и обработке информации реализованы программные или аппаратные средства криптографии информационной безопасности, должны быть предусмотрены следующие механизмызащиты:</strong> доступ к данным</p>
+<p><strong>169. "Физическая топология" - этот термин можно заменить на? </strong> Физическая сеть</p>
+<p><strong>170. Веб-стандарты разрабатываются:</strong> Microsoft</p>
+<p><strong>171. Часть поисковой системы, которая ищет ваши поисковые запросы в индексированной базе данных поисковой системы и возвращает список соответствующих веб-сайтов.</strong> Веб-обходчик</p>
+<p><strong>172. ________фактическая информация (в виде измерений или статистики), используемая в качестве основы для рассуждений, обсуждений или расчетов</strong> Управление данными</p>
+<p><strong>173. Сердцем (и мозгом) компьютера является...</strong> ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР</p>
+<p><strong>174. Наиболее распространенные формы интернет-торговли:</strong> размещение большого объема информации на одной странице, управляемый выбор и вывод данных на странице по многим параметрам, выбранным пользователем, коммерческие транзакции</p>
+<p><strong>175. Основные виды компьютерной графики:</strong> Вектор, Растр</p>
+<p><strong>176. Мультимедийным устройством является:</strong> Видео, MP3-плеер, DVD-плеер, Аудио</p>
+<p><strong>177. Когда появились первые антивирусные утилиты?</strong> 1987 год</p>
+<p><strong>178. Информация, выбранная и заключенная на информационном носителе, является:</strong> данные</p>
+<p><strong>179. FTP означает:</strong> Протокол передачи файлов, загрузка сайтов и других документов с частного устройства разработки на сервер общего хостинга</p>
+<p><strong>180. Выберите самые популярные платформы для B2B:</strong> Facebook, Instagram</p>
+<p><strong>181. Форматы растровой графики включают:</strong> GIF, BMP, JPEG</p>
+<p><strong>182. Мобильная технология, основанная на цифровой технологии:</strong> Облачные технологии.</p>
+<p><strong>183. Выберите государственную программу в Казахстане одной из целей является создание необходимой инфраструктуры для развития платежных систем и логистики</strong> Электронное обучение в Казахстане</p>
+<p><strong>184. Модели взаимодействия субъектов электронной коммерции, ориентированные на делового партнера и клиента:</strong> Электронный бизнес (электронная коммерция)</p>
+<p><strong>185. Бизнес-инкубаторы:</strong> программа содействия бизнесу</p>
+<p><strong>186. Форматы для хранения векторных изображений:</strong> .wmf</p>
+<p><strong>187. Минимальная единица информации</strong> Байт</p>
+<p><strong>188. Форматы растровой графики включают:</strong> GIF, BMP</p>
+<p><strong>189. Какие стандарты используются в проводных сетях?</strong> IEEE 802.3 u, IEEE 802.3 ab</p>
+<p><strong>190. Стандартные приложения Windows:</strong> Краска</p>
+<p><strong>191. Методы, используемые при анализе данных</strong> Кластерный анализ</p>
+<p><strong>192. Третье поколение мобильных технологий включает в себя:</strong> видеотелефония</p>
+<p><strong>193. Десятичное число 99 в шестнадцатеричном формате:</strong> 63</p>
+<p><strong>194. Файл какого приложения можно импортировать в базу данных Access:</strong> Файлы Excel</p>
+<p><strong>195. Microsoft Access-это:</strong> Программа предназначена для обработки данных, записанных в виде таблицы</p>
+<p><strong>196.  Элемент окна приложения, содержащий вкладки с логически сгруппированными командами в базе данных:</strong> Панель быстрого доступа</p>
+<p><strong>197. Типы пользовательского интерфейса:</strong> Графический интерфейс</p>
+<p><strong>198. Найдите эквиваленты десятичного числа 74 в двоичном, шестнадцатеричном</strong> 1001010</p>
+<p><strong>199. Укажите цветовую модель в компьютерной графике:</strong> RGB</p>
+<p><strong>200. Устройство вывода:</strong> Следить за</p>
+<p><strong>201. Классификация системного программного обеспечения:</strong> Операционная система, Драйверы устройств, Программное обеспечение</p>
+<p><strong>202. Меры защиты в сети Интернет: </strong> Не отправляйте и не вводите пароль в своих учетных записях для подозрительных сайтов</p>
+<p><strong>203. Асимметричное шифрование is используется для ...</strong> Слой Защищенных Сокетов</p>
+<p><strong>204. Виды угроз электронного банкинга:</strong> неправильная идентификация пользователя</p>
+<p><strong>205. Операционная система для ПК:</strong> Окна</p>
+<p><strong>206. Фиксированное число байтов в секторах равно...</strong> 512</p>
+<p><strong>207. Преимущества мультимедийных технологий заключаются в</strong> интерактивность</p>
+<p><strong>208. Электронные технологии-это ...:</strong> наука, основанная на использовании потоков электронов и ионов в электрических и магнитных полях для обработки и преобразования материала</p>
+<p><strong>209. Персональные компьютеры (ПК) являются</strong> Ноутбук</p>
+<p><strong>210. PaaS означает:</strong> Платформа как услуга</p>
+<p><strong>211. Облачные сервисы доступны для специальной группы пользователей</strong> Частные</p>
+<p><strong>212. Amazon Elastic Compute Cloud (EC2) в первую очередь рассматривается, какой тип модели облачных вычислений</strong> Инфраструктура как услуга (IaaS)</p>
+<p><strong>213. В каком году был выпущен первый Apple II ?</strong> в 1977 году</p>
+<p><strong>214. Операционными системами для мобильных устройств являются:</strong> Приложение iOS, Windows Mobile</p>
+<p><strong>215. Выберите операционные системы с несколькими задачами:</strong> Android</p>
+<p><strong>216. Выберите название устройства, представленное на следующем рисунке: </strong> Материнский шнур</p>
+<p><strong>217. MS Excel. Команда "Вставить функцию" расположена: </strong> На вкладке Формулы</p>
+<p><strong>218. Геоинформационные системы (ГИС)</strong> ArcGIS</p>
+<p><strong>219. Укажите максимальное число в восьмеричной системе счисления:</strong> Семь</p>
+<p><strong>220. Термины НЕ используются для количественной оценки данных:</strong> Цифра</p>
+<p><strong>221. MS Power Point program incluрежимы отображения документа:</strong> просмотр слайд-шоу</p>
+<p><strong>222. Коллекция информации, которая может храниться в нескольких файлах или в нескольких типах записей:</strong> База данных</p>
+<p><strong>223. Выберите правильные утверждения о браузере</strong> Примеры браузера: Google Chrome, Safari</p>
+<p><strong>224. Какого знака не существует в системе нумерации 16?</strong> Я</p>
+<p><strong>225. Выберите существующие типы файлов:</strong> txt</p>
+<p><strong>226. Примеры веб-браузера</strong> Сафари</p>
+<p><strong>227. Большинствопоследних версий операционной системы Windows:</strong> Windows 10</p>
+<p><strong>228. Для работы с векторной графикой используются следующие программы</strong> Corel draw</p>
+<p><strong>230. Cопустите URL-адрес элементов, который может выглядеть так:</strong> http://www.dl.iitu.kz/courses.html</p>
+<p><strong>231. Какой метод следует переопределить для реализации визуализации внешнего вида компонента?</strong> краска</p>
+<p><strong>232. Графические форматы для сохранения цифровых фотографий:</strong> Бмп</p>
+<p><strong>233. Сколько мегабайт в одном гигабайте:</strong> 1024</p>
+<p><strong>234. "Умный город" использует основные факторы, такие как:</strong> Безопасность, экологичность и экономия</p>
+<p><strong>235. Выберите примеры SaaS:</strong> Приложения Google</p>
+<p><strong>236. Найдите устройство ввода</strong> Клавиатура</p>
+<p><strong>237. Alt, Ctrl, Shift-это:</strong> Специальные клавиши управления</p>
+<p><strong>238. Веб-стандарты создаются:</strong> W3C</p>
+<p><strong>239. Параметры, которые верны для объектной модели базы данных:</strong> Также называемая объектно-ориентированной базой данных, хранит данные в виде объектов, которые могут быть сгруппированы в классы и определены атрибутами и методами</p>
+<p><strong>240. Выберите всемирную стандартизацию:</strong> Всемирная паутина (WWW)</p>
+<p><strong>241. Наиболее популярные примеры программного обеспечения для баз данных для персональных компьютеров:</strong> FileMaker Pro</p>
+<p><strong>242. "Облако" в облачных вычислениях представляет собой что?</strong> Интернет</p>
+<p><strong>243. Первая глобальная компьютерная сеть имела название:</strong> Arpanet</p>
+<p><strong>244. Клавиша для перемещения курсора в конец строки:</strong> Конец</p>
+<p><strong>245. Биометрическими данными для осуществления идентификации/аутентификации пользователей являются:</strong> сетчатка глаза и геометрия</p>
+<p><strong>246. Команда для удаления всех видов в таблице базы данных:</strong> Удалить Все Виды</p>
+<p><strong>247. Какое из следующих устройств следует отнести к категории устройств вывода?</strong> Принтер</p>
+<p><strong>248. Пользователь может выполнять вычисления с использованием:</strong> ОЗУ</p>
+<p><strong>249. Что из перечисленного можно найти на материнской плате?</strong> Гнездо ZIF</p>
+<p><strong>250. Компоненты локальных вычислительных сетей:</strong> Сервер</p>
+<p><strong>251. Эти типы сетей относятся к CAN и ЧЕЛОВЕКУ:</strong> ЛОКАЛЬНАЯ сеть</p>
+<p><strong>252. Примеры веб-браузера</strong> Хром</p>
+<p><strong>253. ISO означает:</strong> Международная организация по стандартизации</p>
+<p><strong>254.  Десятичное число 99 в шестнадцатеричном формате:</strong> 13А</p>
+<p><strong>255. Для подключения компьютера к телефонной системе используется:</strong> модем</p>
+<p><strong>256. Архиватор не является программой:</strong> XML</p>
+<p><strong>257. Искусство создания движущихся изображений с помощью компьютеров:</strong> Компьютерная анимация</p>
+<p><strong>258. Выберите набор процедур, позволяющих осуществлять перевод денежных средств:</strong> WorldPay</p>
+<p><strong>259. Специальная программа, которая обрабатывает инструкции, написанные на определенном языке программирования, и превращает их в машинный язык, - это:</strong> Компилятор</p>
+<p><strong>260. Мобильная операционная система, разработанная Google на основе ядра Linux и предназначенная в основном для мобильных устройств с сенсорным экраном, таких как смартфоны и планшеты:</strong> Android</p>
+<p><strong>261. FTP означает:</strong> Протокол Передачи Файлов</p>
+<p><strong>262. Основная операционная система для мобильных телефонов:</strong> Android</p>
+<p><strong>263. Форматы растровой графики включают:</strong> PNG</p>
+<p><strong>264. Иллюзия движения, создаваемая последовательным отображением изображений статичных элементов, является</strong> Анимация</p>
+<p><strong>265. Компакт-диск (</strong> 680 МБ</p>
+<p><strong>266. Программы, предназначенные для борьбы с вредоносным программным обеспечением:</strong> Касперский</p>
+<p><strong>267. Программное обеспечение для электронных таблиц</strong> Microsoft Excel</p>
+<p><strong>268. Поверхностная форма языка программирования:</strong> Синтаксис</p>
+<p><strong>269. Информация, отобранная и размещенная на носителе информации, является:</strong> данные</p>
+<p><strong>270. Веб-браузеры используются для:</strong> доступ в Интернет</p>
+<p><strong>271. Информация должна каким-то образом поступать с компьютера на монитор по какому-то кабелю, например, по кабелю DVI. Но я буду милой и сделаю этот множественный выбор...что означает DVI?</strong> Цифровой Видеоинтерфейс</p>
+<p><strong>272. Итак, мой компьютер отправляет изображение на экран по кабелю, а затем. Когда я смотрю видео, компьютер, очевидно, отправляет информацию быстро и часто, верно? Да, именно так. Это называется частотой обновления. Какая из этих частот с наименьшей вероятностью соответствует частоте обновления вашего монитора?</strong> 0,15 кГц</p>
+<p><strong>273. Первым домашним компьютером с монитором стал IBM PC, выпущенный в 1981 году.</strong> Ложные</p>
+<p><strong>274. Какой первый домашний компьютер с монитором?</strong> Альтаир 8800</p>
+<p><strong>275. Что означает USB?</strong> Универсальная Последовательная шина</p>
+<p><strong>276. Найдите эквиваленты числа  в 2, 8 системах счисления:</strong> 1000 и 10</p>
+<p><strong>277. Десятичное число соответствует двоичному числу 1000 00002 имеет вид:</strong> 128₁₀</p>
+<p><strong>278. Десятичное число соответствует двоичному числу 1000002 и имеет вид:</strong> 32₁₀</p>
+<p><strong>279. Этот компьютерный язык, который управлял механической "черепахой", был разработан для детей.</strong> ЛОГОТИП</p>
+<p><strong>280. Microsoft распространила 450 000 дисков этого нового продукта в ноябрьском выпуске журнала "Мир ПК" за 1983 год.</strong> Слово</p>
+<p><strong>281. Кто разработал операционную систему Linux?</strong> Линус Торвальдс</p>
+<p><strong>282. Компания, создавшая MAC OS, была…  </strong> Macintoshes</p>
+<p><strong>283. Геоинформационная система (ГИС)</strong> гвСИГ</p>
+<p><strong>284. Прикладные программы...</strong> текстовые процессоры</p>
+<p><strong>285. Программы MS Office:</strong> MS Access</p>
+<p><strong>286. Переведите десятичное число 2137 в восьмеричную систему счисления:</strong> 4131</p>
+<p><strong>287. Переведите десятичное число 756 в восьмеричную систему счисления:</strong> 1364</p>
+<p><strong>288. Переведите десятичное число 3257 в восьмеричную систему счисления:</strong> 6271</p>
+<p><strong>289. Переведите десятичное число 542 в восьмеричную систему счисления:</strong> 1036</p>
+<p><strong>290. Десятичное число соответствует двоичному числу 101110012 имеет вид:</strong> 185₁₀</p>
+<p><strong>291. Десятичное число соответствует двоичному числу 101110012 имеет вид:</strong> 185₁₀</p>
+<p><strong>292. Десятичное число соответствует двоичному числу 111100002 имеет вид:</strong> 240₁₀</p>
+<p><strong>293. XHTML означает:</strong> Расширяемый Язык Разметки Гипертекста</p>
+<p><strong>294. Преобразование восьмеричной системы счисления в двоичную: 541</strong> 101100001</p>
+<p><strong>295. Операционная система WINDOWS 10 была выпущена в____.</strong> 2015 год</p>
+<p><strong>296. Преобразование восьмеричной системы счисления в двоичную: 754</strong> 111101100</p>
+<p><strong>297. Преобразование восьмеричной системы счисления в двоичную: 456</strong> 100101110</p>
+<p><strong>298. Преобразование из восьмеричной в двоичную систему счисления: 751</strong> 111101001</p>
+<p><strong>299. Преобразование из восьмеричной в двоичную систему счисления: 453</strong> 100101011</p>
+<p><strong>300. Среди записей укажите правильный IP-адрес компьютера:</strong> 198.14.18.216
+<ict_r>

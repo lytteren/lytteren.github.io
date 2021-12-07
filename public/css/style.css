@@ -33,7 +33,7 @@ body {
 }
 
 p {
-	/*display: none;*/
+	display: none;
 }
 
 .disable {

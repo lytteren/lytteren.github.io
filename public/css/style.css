@@ -35,7 +35,3 @@ body {
 p {
 	display: none;
 }
-
-.disable {
-	pointer-events: none;
-}

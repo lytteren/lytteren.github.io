@@ -15,6 +15,18 @@ $(document).ready(function () {
 			success: function(data) {
 				data = data.split(tag);
 				$('.jumbotron').html(data[1]);
+
+				var filter = $('.form-control').val(), count = 0;
+
+				$(".jumbotron p").each(function() {
+
+					if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+						$(this).css('display', 'none');
+					} else {
+						$(this).css('display', 'block');
+						count++;
+					}
+				});
 			}
 		});
 	})
@@ -25,17 +37,15 @@ $(document).ready(function () {
 			$(this).next().css({
 				'top': '-50%',
 			})
-			$('select[name="obj"]').removeClass('disable');
 		}
 		else {
 			$(this).next().css({
 				'top': '50%',
 			})
-			$('select[name="obj"]').addClass('disable');
 		}
 		var filter = $(this).val(), count = 0;
 
-		$(".jumbotron p strong").each(function(){
+		$(".jumbotron p").each(function() {
 
 			if ($(this).text().search(new RegExp(filter, "i")) < 0) {
 				$(this).css('display', 'none');

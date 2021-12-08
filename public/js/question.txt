@@ -1,124 +1,306 @@
 <eng>
-<p><strong>1. Choose the right variant. Make up the sentence:  children, like, play, to, football, many. </strong> - 6,1,2,4,3,5</p>
-<p><strong>2. Make up the sentence:  project, very, is, interesting, this.</strong> - 5,1,3,2,4.</p>
-<p><strong>3. Choose the right variant in Present Perfect : We … bought a lot of flowers for our teacher.</strong> - have</p>
-<p><strong>4. Choose the right variant in Present Perfect : It’s five years since I…had a holiday.</strong> - have</p>
-<p><strong>5. Choose the right variant in Present Perfect : Here’s my report I … finished it at last. </strong> - have</p>
-<p><strong>6. Choose the right variant in Present Perfect: How many people … she invited?</strong> - has</p>
-<p><strong>7. Choose the right variant in Present Perfect: Our manager … gone to Almaty on business.</strong> - has</p>
-<p><strong>8. Make up the sentence:  day, we, every, lessons, four, have. </strong> - 2,6,5,4,3,1. </p>
-<p><strong>9. Make up the sentence: are, there, chairs, any, the, room, in? </strong> - 1,2,4,3,7,5,6. </p>
-<p><strong>10. Make up the sentence:  watch, TV, evening, every, we, don’t .</strong> - 5, 6, 1,2,4,3.</p>
-<p><strong>11. Choose the right variant in Present Perfect : My parents ___ to the USA many times.</strong> - have been</p>
-<p><strong>12. Choose the right variant in Present Perfect: We ____ a holiday since 1999.</strong> - haven’t had</p>
-<p><strong>13. Choose the right variant in Present Perfect : I ____Peter this week.</strong> - haven’t seen</p>
-<p><strong>14. Choose the right variant in Present Perfect: Tom ___ a car recently.</strong> - has bought</p>
-<p><strong>15. Choose the right sentence in Present Perfect:</strong> - At last I have done my homework</p>
-<p><strong>16. Choose the right sentence in Present Perfect:</strong> - Has he decided what he must do</p>
-<p><strong>17. Choose the right sentence in Present Perfect:</strong> - We haven’t discussed this matter yet</p>
-<p><strong>18. Choose the right sentence in Present Perfect:</strong> - Where is boss? He has just gone away</p>
-<p><strong>19. Make up the sentence:  gets, she, to, the, by, University, the, metro. </strong> - 2,1,3,4,6,5,7,8. </p>
-<p><strong>20. Choose the right variant: …  elephant is too big. </strong> - the.</p>
-<p><strong>21. Choose the antonym: silence. </strong> - noise. </p>
-<p><strong>22. Choose the antonym: enemy.</strong> - friend.</p>
-<p><strong>23. Choose the antonym:  tragedy. </strong> - comedy.</p>
-<p><strong>24. Choose the right variant: I saw … in the library.</strong> - him.</p>
-<p><strong>25. Choose the right variant: Your room is larger than ….</strong> - mine.</p>
-<p><strong>26. Choose the right variant: You can translate this text….</strong> - yourself.</p>
-<p><strong>27. Choose the right variant: My sister cooks breakfast for ….</strong> - us.</p>
-<p><strong>28. Choose the right variant: Tell me … address, please.</strong> - your.</p>
-<p><strong>29. Choose the right variant: We must translate this text….</strong> - ourselves.</p>
-<p><strong>30. Choose the right variant: Strong families also speak about … problems.</strong> - their.</p>
-<p><strong>31. Choose the right variant: Asem has got … apple. </strong> - an </p>
-<p><strong>32. Choose the right variant: … room is too small. </strong> - the </p>
-<p><strong>33. Choose the right variant: The desk is in … corner of … room. </strong> - a/the </p>
-<p><strong>34. Choose the right variant: Let’s go … home.</strong> -  …</p>
-<p><strong>35. Choose the right variant: January is … first month of … year. </strong> - the/the</p>
-<p><strong>36. Choose the right variant: Where is … shop? </strong> - a.</p>
-<p><strong>37. Choose the right variant: Please, close … window! It’s cold. </strong> - the</p>
-<p><strong>38. Choose the right variant: He was born in … 1945. </strong> - …</p>
-<p><strong>39. Choose the right variant: (хотя)there is no pool, there is a nice garden. </strong> - although </p>
-<p><strong>40.Choose the right variant: Our classes begin …  Monday. </strong> - on </p>
-<p><strong>41. Choose the right variant: School year begins … the 1-st of September. </strong> - on</p>
-<p><strong>42. Choose the right variant: We live ... Tole-bi street. </strong> - in </p>
-<p><strong>43. Make up the sentence: are, they, my, relatives. </strong> - 2,1,3,4 </p>
-<p><strong>44. Make up the sentence: where, you, live, do? </strong> - 1,4,2,3</p>
-<p><strong>45. Make up the sentence: she, does, English, learn? </strong> - 2,1,4,3 </p>
-<p><strong>46. Choose the right variant: My father … fond of playing chess.</strong> - is</p>
-<p><strong>47. Choose the synonym: a time-table.</strong> - a schedule </p>
-<p><strong>48. Choose the synonym: spare-time.</strong> - free-time </p>
-<p><strong>49.Choose the synonym: begin.</strong> - start </p>
-<p><strong>50. Choose the synonym: finish. </strong> - end </p>
-<p><strong>51. Choose the synonym: huge .</strong> - enormous </p>
-<p><strong>52. Choose the synonym: salary.</strong> - wages </p>
-<p><strong>53. Choose the antonym: truth. </strong> - lie </p>
-<p><strong>54. Choose the antonym: turn up.</strong> - turn down </p>
-<p><strong>55. Choose the antonym: Sit down.</strong> - stand up </p>
-<p><strong>56.Choose the antonym: get on.</strong> - get off</p>
-<p><strong>57. Choose the antonym: get married.</strong> - get divorced</p>
-<p><strong>58. Choose the antonym: turn off. </strong> - turn on</p>
-<p><strong>59. Choose the right variant: Two thousand and twelve.</strong> - 2012.</p>
-<p><strong>60. Find the plural form of the word: mouse.</strong> - mice.</p>
-<p><strong>61. Choose the right variant: We…..lectures and tutorials every day.</strong> - have</p>
-<p><strong>62. Choose the right variant: It was Sunday and we … classes.</strong> - didn’t have</p>
-<p><strong>63. Choose the right answer: Is he sitting in the classroom? 	</strong> - Yes, he is</p>
-<p><strong>64. Choose the right answer: Do you like our University?</strong> - Yes, I do</p>
-<p><strong>65. Choose the right answer: Does she go to the University?</strong> - Yes, she does</p>
-<p><strong>66. Choose the right answer: Have you a car?</strong> - Yes, I have</p>
-<p><strong>67. Choose the right answer: Can you go to the cinema?</strong> - Yes, I can</p>
-<p><strong>68. Choose the right variant: Strong families also speak about … problems.</strong> - their</p>
-<p><strong>69. Find the plural form of the word “a wife”.</strong> - wives</p>
-<p><strong>70. Find the plural form of the word “a match”.</strong> - matches</p>
-<p><strong>71. Find the plural form of the word “an address”.</strong> - addresses</p>
-<p><strong>72. Find the plural form of the word “an ox”.</strong> - oxen</p>
-<p><strong>73. Choose the right variant: We have six lessons a day (usually). </strong> - We usually have six lessons a day </p>
-<p><strong>74. Choose the right variant: We drink tea in the morning (always). </strong> - We always drink tea in the morning </p>
-<p><strong>75. What part of speech is the underlined word? It is one of the best holidays for children.</strong> - adjective</p>
-<p><strong>76. Insert the right word: ... temperature.</strong> - to take</p>
-<p><strong>77. Choose the appropriate word: What is your favourite…. ? Can you play it?</strong> - instrument</p>
-<p><strong>78.Express in a word: Fried pieces of potato.</strong> - Chips</p>
-<p><strong>79. What part of speech is the underlined word? It is one of the best  holidays for children.</strong> - noun</p>
-<p><strong>80. Choose the right variant: She …helps her mother (всегда). . </strong> - always</p>
-<p><strong>81. Choose the right variant: Do you …go through the park (часто)?</strong> - often</p>
-<p><strong>82. Choose the right variant: When do you … get up (обычно)?</strong> - usually</p>
-<p><strong>83. Choose the right variant: She … takes medicine (часто).</strong> - often</p>
-<p><strong>84. Choose the right variant: Eleven thousand nine hundred and thirty- four.</strong> - 11934</p>
-<p><strong>85. Choose the antonym: lazy.</strong> - hard-working</p>
-<p><strong>86. Choose the antonym: boring.</strong> - ineresting</p>
-<p><strong>87.Choose the antonym: lend.</strong> - borrow</p>
-<p><strong>88. Choose the antonym: dangerous.</strong> - safe </p>
-<p><strong>89. Choose the right variant: “ three hundred and seventy. five ”.</strong> - 375.</p>
-<p><strong>90. Choose the right variant: «three hundred and five».</strong> - 305.</p>
-<p><strong>91.Choose the right variant: There is (көп, много)snow in the streets.</strong> - much</p>
-<p><strong>92. Choose the right variant: “ two thousand and five ”.</strong> - 2005.</p>
-<p><strong>93. Choose the right variant: менің әкпемнің достары. друзья моей сестры. </strong> - my sister’s friends.</p>
-<p><strong>94. Choose the right variant: Our classes begin … the morning.</strong> - in</p>
-<p><strong>95.Choose the right variant: Sit…</strong> - down</p>
-<p><strong>96.Choose the right variant: They will come … Tuesday </strong> - on</p>
-<p><strong>97. Choose the right variant: It’s a large building (артында, позади)a garden.</strong> - behind</p>
-<p><strong>98. Choose the right variant: There is a bedroom (үстінде, н</strong> - on</p>
-<p><strong>99. Choose the right variant: The park is (аралығында, между)our house and the hostel.</strong> - between</p>
-<p><strong>100.Find the plural form of the word: sheep.</strong> - sheep</p>
-<p><strong>101. Choose the right variant: I… to the teacher last week.</strong> - speaks</p>
-<p><strong>102. Choose the right variant: When did he … home yesterday?</strong> - came </p>
-<p><strong>103.Choose the right variant: He did not … his town last year.</strong> - visit</p>
-<p><strong>104. Choose the right variant: … for a walk.</strong> - to go</p>
-<p><strong>105.Choose the right variant: … you have breakfast in the kitchen?</strong> - do</p>
-<p><strong>106. Choose the right variant: …. we go to the cinema yesterday? </strong> - did</p>
-<p><strong>107. Choose the right variant: She is as …. as her mother.</strong> - nice</p>
-<p><strong>108. Choose the right variant: This building is as….as the one in our street.</strong> - expensive</p>
-<p><strong>109.Choose the right variant: The brown suit is as… as the black one.</strong> - cheap</p>
-<p><strong>110. Choose the right variant: Kazakhstan is … than France.</strong> - larger</p>
-<p><strong>111. Choose the right variant: Oranges are … than apples.</strong> - more expensive</p>
-<p><strong>112. Find the plural form of the word: fish.</strong> - fishes</p>
-<p><strong>113. Choose the right variant: You know Kazakh … than your father.</strong> - worse</p>
-<p><strong>114. Choose the right variant: Paris is … than London.</strong> - more beautiful</p>
-<p><strong>115. Choose the right variant: The Aral is … sea in the world. </strong> - the smallest</p>
-<p><strong>116. Choose the right answer. словарь студента. білімгердің сөздігі. </strong> - the student's dictionary.</p>
-<p><strong>117. Choose the right answer. отец моего друга. менің досымның әкесі. </strong> - my friend’s father.</p>
-<p><strong>118. Choose the right variant. детский магазин. балалар дүкені.</strong> - children’s shop.</p>
-<p><strong>119. Choose the right  translation:  второй.</strong> - the second.</p>
-<p><strong>120. Choose the right variant: Would you like … cup of coffee? </strong> - a</p>
+<p><strong>1. Choose the right variant. Make up the sentence:  children, like, play, to, football, many. </strong> 6,1,2,4,3,5</p>
+<p><strong>2. Make up the sentence:  project, very, is, interesting, this.</strong> 5,1,3,2,4.</p>
+<p><strong>3. Choose the right variant in Present Perfect : We … bought a lot of flowers for our teacher.</strong> have</p>
+<p><strong>4. Choose the right variant in Present Perfect : It’s five years since I…had a holiday.</strong> have</p>
+<p><strong>5. Choose the right variant in Present Perfect : Here’s my report I … finished it at last. </strong> have</p>
+<p><strong>6. Choose the right variant in Present Perfect: How many people … she invited?</strong> has</p>
+<p><strong>7. Choose the right variant in Present Perfect: Our manager … gone to Almaty on business.</strong> has</p>
+<p><strong>8. Make up the sentence:  day, we, every, lessons, four, have. </strong> 2,6,5,4,3,1. </p>
+<p><strong>9. Make up the sentence: are, there, chairs, any, the, room, in? </strong> 1,2,4,3,7,5,6. </p>
+<p><strong>10. Make up the sentence:  watch, TV, evening, every, we, don’t .</strong> 5, 6, 1,2,4,3.</p>
+<p><strong>11. Choose the right variant in Present Perfect : My parents ___ to the USA many times.</strong> have been</p>
+<p><strong>12. Choose the right variant in Present Perfect: We ____ a holiday since 1999.</strong> haven’t had</p>
+<p><strong>13. Choose the right variant in Present Perfect : I ____Peter this week.</strong> haven’t seen</p>
+<p><strong>14. Choose the right variant in Present Perfect: Tom ___ a car recently.</strong> has bought</p>
+<p><strong>15. Choose the right sentence in Present Perfect:</strong> At last I have done my homework</p>
+<p><strong>16. Choose the right sentence in Present Perfect:</strong> Has he decided what he must do</p>
+<p><strong>17. Choose the right sentence in Present Perfect:</strong> We haven’t discussed this matter yet</p>
+<p><strong>18. Choose the right sentence in Present Perfect:</strong> Where is boss? He has just gone away</p>
+<p><strong>19. Make up the sentence:  gets, she, to, the, by, University, the, metro. </strong> 2,1,3,4,6,5,7,8. </p>
+<p><strong>20. Choose the right variant: …  elephant is too big. </strong> the.</p>
+<p><strong>21. Choose the antonym: silence. </strong> noise. </p>
+<p><strong>22. Choose the antonym: enemy.</strong> friend.</p>
+<p><strong>23. Choose the antonym:  tragedy. </strong> comedy.</p>
+<p><strong>24. Choose   the right variant: I saw … in the library.</strong> him.</p>
+<p><strong>25. Choose   the right variant: Your room is larger than ….</strong> mine.</p>
+<p><strong>26. Choose   the right variant: You can translate this text….</strong> yourself.</p>
+<p><strong>27. Choose   the right variant: My sister cooks breakfast for ….</strong> us.</p>
+<p><strong>28. Choose   the right variant: Tell me … address, please.</strong> your.</p>
+<p><strong>29. Choose the right variant: We must translate this text….</strong> ourselves.</p>
+<p><strong>30. Choose   the right variant: Strong families also speak about … problems.</strong> their.</p>
+<p><strong>31. Choose the right variant: Asem has got … apple. </strong> an </p>
+<p><strong>32. Choose the right variant: … room is too small. </strong> the </p>
+<p><strong>33. Choose the right variant: The desk is in … corner of … room. </strong> a/the </p>
+<p><strong>34. Choose the right variant: Let’s go … home.</strong> …</p>
+<p><strong>35. Choose the right variant: January is … first month of … year. </strong> the/the</p>
+<p><strong>36. Choose the right variant: Where is … shop? </strong> a.</p>
+<p><strong>37. Choose the right variant: Please, close … window! It’s cold. </strong> the</p>
+<p><strong>38. Choose the right variant: He was born in … 1945. </strong> …</p>
+<p><strong>39. Choose the right variant: (хотя)there is no pool, there is a nice garden. </strong> although </p>
+<p><strong>40. Choose the right variant: Our classes begin …  Monday. </strong> on </p>
+<p><strong>41. Choose the right variant: School year begins … the 1-st of September. </strong> on</p>
+<p><strong>42. Choose the right variant: We live ... Tole-bi street. </strong> in </p>
+<p><strong>43. Make up the sentence: are, they, my, relatives. </strong> 2,1,3,4 </p>
+<p><strong>44. Make up the sentence: where, you, live, do? </strong> 1,4,2,3</p>
+<p><strong>45. Make up the sentence: she, does, English, learn? </strong> 2,1,4,3 </p>
+<p><strong>46. Choose the right variant: My father … fond of playing chess.</strong> is</p>
+<p><strong>47. Choose the synonym: a time-table.</strong> a schedule </p>
+<p><strong>48. Choose the synonym: spare-time.</strong> free-time </p>
+<p><strong>49. Choose the synonym: begin.</strong> start </p>
+<p><strong>50. Choose the synonym: finish. </strong> end </p>
+<p><strong>51. Choose the synonym: huge .</strong> enormous </p>
+<p><strong>52. Choose the synonym: salary.</strong> wages </p>
+<p><strong>53. Choose the antonym: truth. </strong> lie </p>
+<p><strong>54. Choose the antonym: turn up.</strong> turn down </p>
+<p><strong>55. Choose the antonym: Sit down.</strong> stand up </p>
+<p><strong>56. Choose the antonym: get on.</strong> get off</p>
+<p><strong>57. Choose the antonym: get married.</strong> get divorced</p>
+<p><strong>58. Choose the antonym: turn off. </strong> turn on</p>
+<p><strong>59. Choose   the right variant: Two thousand and twelve.</strong> 2012.</p>
+<p><strong>60. Find the plural form of the word: mouse.</strong> mice.</p>
+<p><strong>61. Choose the right variant: We…..lectures and tutorials every day.</strong> have</p>
+<p><strong>62. Choose the right variant: It was Sunday and we … classes.</strong> didn’t have</p>
+<p><strong>63. Choose the right answer: Is he sitting in the classroom? 	</strong> Yes, he is</p>
+<p><strong>64. Choose the right answer: Do you like our University?</strong> Yes, I do</p>
+<p><strong>65. Choose the right answer: Does she go to the University?</strong> Yes, she does</p>
+<p><strong>66. Choose the right answer: Have you a car?</strong> Yes, I have</p>
+<p><strong>67. Choose the right answer: Can you go to the cinema?</strong> Yes, I can</p>
+<p><strong>68. Choose the right variant: Strong families also speak about … problems.</strong> their</p>
+<p><strong>69. Find the plural form of the word “a wife”.</strong> wives</p>
+<p><strong>70. Find the plural form of the word “a match”.</strong> matches</p>
+<p><strong>71. Find the plural form of the word “an address”.</strong> addresses</p>
+<p><strong>72. Find the plural form of the word “an ox”.</strong> oxen</p>
+<p><strong>73. Choose the right variant: We have six lessons a day (usually). </strong> We usually have six lessons a day </p>
+<p><strong>74. Choose the right variant: We drink tea in the morning (always). </strong> We always drink tea in the morning </p>
+<p><strong>75. What part of speech is the underlined word? It is one of the best holidays for children.</strong> adjective</p>
+<p><strong>76. Insert the right word: ... temperature.</strong> to take</p>
+<p><strong>77. Choose the appropriate word: What is your favourite…. ? Can you play it?</strong> instrument</p>
+<p><strong>78. Express in a word: Fried pieces of potato.</strong> Chips</p>
+<p><strong>79. What part of speech is the underlined word? It is one of the best  holidays for children.</strong> noun</p>
+<p><strong>80. Choose the right variant: She …helps her mother (всегда). . </strong> always</p>
+<p><strong>81. Choose the right variant: Do you …go through the park (часто)?</strong> often</p>
+<p><strong>82. Choose the right variant: When do you … get up (обычно)?</strong> usually</p>
+<p><strong>83. Choose the right variant: She … takes medicine (часто).</strong> often</p>
+<p><strong>84. Choose the right variant: Eleven thousand nine hundred and thirty- four.</strong> 11934</p>
+<p><strong>85. Choose the antonym: lazy.</strong> hard-working</p>
+<p><strong>86. Choose the antonym: boring.</strong> ineresting</p>
+<p><strong>87. Choose the antonym: lend.</strong> borrow</p>
+<p><strong>88. Choose the antonym: dangerous.</strong> safe </p>
+<p><strong>89. Choose   the right variant: “ three hundred and seventy. five ”.</strong> 375.</p>
+<p><strong>90. Choose   the right variant: «three hundred and five».</strong> 305.</p>
+<p><strong>91. Choose the right variant: There is (көп, много)snow in the streets.</strong> much</p>
+<p><strong>92. Choose   the right variant: “ two thousand and five ”.</strong> 2005.</p>
+<p><strong>93. Choose   the right variant: менің әкпемнің достары. друзья моей сестры. </strong> my sister’s friends.</p>
+<p><strong>94. Choose the right variant: Our classes begin … the morning.</strong> in</p>
+<p><strong>95. Choose the right variant: Sit…</strong> down</p>
+<p><strong>96. Choose the right variant: They will come … Tuesday </strong> on</p>
+<p><strong>97. Choose the right variant: It’s a large building (артында, позади)a garden.</strong> behind</p>
+<p><strong>98. Choose the right variant: There is a bedroom (үстінде, на)the second floor.</strong> on</p>
+<p><strong>99. Choose the right variant: The park is (аралығында, между)our house and the hostel.</strong> between</p>
+<p><strong>100. Find the plural form of the word: sheep.</strong> sheep</p>
+<p><strong>101. Choose the right variant: I… to the teacher last week.</strong> speaks</p>
+<p><strong>102. Choose the right variant: When did he … home yesterday?</strong> came </p>
+<p><strong>103. Choose the right variant: He did not … his town last year.</strong> visit</p>
+<p><strong>104. Choose the right variant: … for a walk.</strong> to go</p>
+<p><strong>105. Choose the right variant: … you have breakfast in the kitchen?</strong> do</p>
+<p><strong>106. Choose the right variant: …. we go to the cinema yesterday? </strong> did</p>
+<p><strong>107. Choose the right variant: She is as …. as her mother.</strong> nice</p>
+<p><strong>108. Choose the right variant: This building is as….as the one in our street.</strong> expensive</p>
+<p><strong>109. Choose the right variant: The brown suit is as… as the black one.</strong> cheap</p>
+<p><strong>110. Choose the right variant: Kazakhstan is … than France.</strong> larger</p>
+<p><strong>111. Choose the right variant: Oranges are … than apples.</strong> more expensive</p>
+<p><strong>112. Find the plural form of the word: fish.</strong> fishes</p>
+<p><strong>113. Choose the right variant: You know Kazakh … than your father.</strong> worse</p>
+<p><strong>114. Choose the right variant: Paris is … than London.</strong> more beautiful</p>
+<p><strong>115. Choose the right variant: The Aral is … sea in the world. </strong> the smallest</p>
+<p><strong>116. Choose   the right answer. словарь студента. білімгердің сөздігі. </strong> the student's dictionary.</p>
+<p><strong>117. Choose   the right answer. отец моего друга. менің досымның әкесі. </strong> my friend’s father.</p>
+<p><strong>118. Choose   the right variant. детский магазин. балалар дүкені.</strong> children’s shop.</p>
+<p><strong>119. Choose the right  translation:  второй.</strong> the second.</p>
+<p><strong>120. Choose the right variant: Would you like … cup of coffee? </strong> a</p>
+<p><strong>121. Choose the right  translation:  седьмой.</strong> the seventh.</p>
+<p><strong>122. Choose the right  translation:  двадцать первый.</strong> the twenty first.</p>
+<p><strong>123. Choose the right translation:  двадцать третий.</strong> the twenty third.</p>
+<p><strong>124. Choose the right variant: The students... twice a year.</strong> take exams</p>
+<p><strong>125. Choose the right variant: There are … letters in the English alphabet.</strong> 26</p>
+<p><strong>126. Find the plural form of the word: mother-in law.</strong> mothers-in - law</p>
+<p><strong>127. Find the plural form of the word: goose.</strong> geese</p>
+<p><strong>128. Сhoose the right variant: Where do we keep our clothes?</strong> in a wardrobe</p>
+<p><strong>129. Choose the right variant: Where do we have guests?</strong> in the sitting-room</p>
+<p><strong>130. Find the plural form of the word: man.</strong> men</p>
+<p><strong>131. Choose the right variant: “ three hundred and sixty five ”.</strong> 365</p>
+<p><strong>132. Choose the right variant: to be independent.</strong> тәуелсіз болу. /быть независимым</p>
+<p><strong>133. Choose the right variant: to be angry with smb.</strong> біреуге ашулану. /сердиться на кого-либо</p>
+<p><strong>134. Choose the right variant: «three hundred and three».</strong> 303</p>
+<p><strong>135. Choose the right variant: “ two thousand and seven ”.</strong> 2007</p>
+<p><strong>136. Choose the right variant: … lessons do you have every day?</strong> how many</p>
+<p><strong>137. Choose the right variant: … butter is there in the fridge?</strong> how much</p>
+<p><strong>138. Choose the right variant: The country that you were born in is …</strong> motherland</p>
+<p><strong>139. Choose the right answer. … does it cost to stay at the Hilton hotel?</strong> how much</p>
+<p><strong>140. Choose the right answer. … would you like to drink?</strong> what</p>
+<p><strong>141. Choose the right variant. ... a shower.</strong> to have</p>
+<p><strong>142. Choose the right answer. Where did you ... for your holiday last summer?</strong> go</p>
+<p><strong>143. Choose the right  translation:  двадцать седьмой.</strong> the twenty seventh.</p>
+<p><strong>144. Choose the right  translation:  сорок первый.</strong> the fourty first.</p>
+<p><strong>145. Choose the right  translation:  двадцать пятый.</strong> the twenty fifth.</p>
+<p><strong>146. Choose the right  translation:  девяносто девятый.</strong> the ninety ninth.</p>
+<p><strong>147. Find the alternative question: The bed  is in the bed room.</strong> Is the bed in the bed room or in the living room?</p>
+<p><strong>148. Find the alternative question: She is a doctor.</strong> Is she  a doctor or a driver?</p>
+<p><strong>149. Choose the right variant. I met my … friend yesterday. </strong> best</p>
+<p><strong>150. Choose the right variant. What is that ring made …?</strong> of</p>
+<p><strong>151. Choose the right variant. He … looking for a new job at the moment.</strong> is</p>
+<p><strong>152. Choose the right variant. Listen! somebody … singing.</strong> is</p>
+<p><strong>153. Choose the right variant. I … watching TV when she entered the room.</strong> was</p>
+<p><strong>154. Choose the right variant. It … snowing  when I got up.</strong> was </p>
+<p><strong>155. Choose the right variant. I… looking for a new flat at the moment.</strong> am</p>
+<p><strong>156. Choose the right variant. We are at home. We … not working at the moment.</strong> are</p>
+<p><strong>157. Choose the right variant. I … going to the library now.</strong> am</p>
+<p><strong>158. Choose the right variant. What … Tom doing now?</strong> is</p>
+<p><strong>159. Choose the right variant. I… visit my grandmother at 3 o’clock tomorrow.</strong> shall</p>
+<p><strong>160. Find the disjunctive question:</strong> You are a student, aren’t you?</p>
+<p><strong>161. Find the disjunctive question:</strong> They did not go there yesterday, did they?</p>
+<p><strong>162. Find the disjunctive question:</strong> He has a family, hasn’t he?</p>
+<p><strong>163. Find the disjunctive question:</strong> She is well, isn’t she?</p>
+<p><strong>164. Find the alternative question: The chair is in the bed room.</strong> Is the chair in the bed room or in the living room?</p>
+<p><strong>165. Find the alternative question: She is a teacher.</strong> Is she a teacher or a doctor?</p>
+<p><strong>166. Find the alternative question: We are going to the picnic.</strong> Are we going to the picnic or to the theatre?</p>
+<p><strong>167. Find the alternative question: Arman is writing the dictation.</strong> Is Arman writing the dictation or composition?</p>
+<p><strong>168. Find the alternative question: I get up at 7 o’clock every day .</strong> Do I get up at 7o’clock or at 8 o’clock every day?</p>
+<p><strong>169. Find the alternative question: My mother is cooking now?</strong> Is my mother cooking or looking at the picture now?</p>
+<p><strong>170. Choose the right variant. Take an umbrella. It … raining.</strong> is</p>
+<p><strong>171. Choose the right variant. What … you doing at 11.30 yesterday?</strong> were</p>
+<p><strong>172. Choose the right variant. I’m getting … and ….</strong> fatter/fatter</p>
+<p><strong>173. Choose the right variant. Stop …. our lesson isn’t over.</strong> talking</p>
+<p><strong>174. Choose the Present Continuous tense. </strong> they are writing a test</p>
+<p><strong>175. Choose the right variant. She works six … on Saturday.</strong> hours</p>
+<p><strong>176. Choose the correct translation of the word: “cоңғы курс білімгері, студент выпускник”.</strong> a final year student</p>
+<p><strong>177. Choose the right variant. I am a first – year student of the philological …</strong> institution</p>
+<p><strong>178. Choose the right variant. Our classes begin…</strong> at half past 8</p>
+<p><strong>179. Choose the antonym. «boring»:</strong> interesting</p>
+<p><strong>180. Choose the antonym. «lazy»:</strong> hard-working</p>
+<p><strong>181. Choose the antonym. « friendly»:</strong> unfriendly</p>
+<p><strong>182. Choose the right question: She watches TV in the evening. </strong> what does she do in the evening?</p>
+<p><strong>183. Choose the negative form: She makes a report for the conference.</strong> She does not make a report for the conference</p>
+<p><strong>184. Choose the right variant. She lives not … from the institute.</strong> far</p>
+<p><strong>185. Choose the right preposition. It takes him … 5 minutes to get… the institute.</strong> …,to</p>
+<p><strong>186. Choose the right variant. do, cinema, when, to, you, the , go.</strong> when do you go to the cinema ?</p>
+<p><strong>187. Define the right tense form. I am looking the key:</strong> present continuous</p>
+<p><strong>188. Choose the right answer. When do you get up?</strong> I get up at 7 o` clock</p>
+<p><strong>189. Choose the right question. I went to the party.</strong> where did you go?</p>
+<p><strong>190. Choose the right variant. “… it snow yesterday?”</strong> did it rain yesterday?</p>
+<p><strong>191. Complete the sentence. Does your mother feel…</strong> tired</p>
+<p><strong>192. Choose the right variant. It is never late to learn.</strong> ештен кеш жақсы. /никогда не поздно учиться</p>
+<p><strong>193. Choose the right variant. What do we call all the professors, lecturers and assistants?</strong> a teaching staff</p>
+<p><strong>194. Choose the right variant. What do we call a 1st year student?</strong> a freshman</p>
+<p><strong>195. Choose the right translation. To be founded.</strong> құрылу/ быть основанным</p>
+<p><strong>196. Choose the right translation. To be situated.</strong> орналасу/ находиться</p>
+<p><strong>197. Choose the right translation. To be good at.</strong> жақсы болу /быть хорошим</p>
+<p><strong>198. Choose the right translation: To pay attention.</strong> көңіл аудару /обращать внимание</p>
+<p><strong>199. Choose the right question. I went to the post office.</strong> where did you go?</p>
+<p><strong>200. Choose the right variant. The party wasn’t very good, so we …. long.</strong> didn’t stay</p>
+<p><strong>201. Choose the right variant. “… it rain yesterday?”</strong> did it rain yesterday?</p>
+<p><strong>202. Choose the right variant. It was very warm, so I …. a window.</strong> opened</p>
+<p><strong>203. Choose the right variant. She had a pen but she … any paper.</strong> didn’t have</p>
+<p><strong>204. Choose the right variant. The accident … last Sunday afternoon.</strong> happened</p>
+<p><strong>205. Choose the right variant. We … our holiday last year.</strong> enjoyed</p>
+<p><strong>206. Make up the sentence with these words: study, do, what, higher, school, at, you? </strong> what do you higher school study at?</p>
+<p><strong>207. Put the correct form of the verb. Yesterday morning Helen … at 7 o’ clock:</strong> woke up</p>
+<p><strong>208. Define the right tense form. I am cutting the grass:</strong> present continuous</p>
+<p><strong>209. Make up the sentence with these words: do, what, Sunday, you, last, did?</strong> what did you do last sunday?</p>
+<p><strong>210. Complete the sentence. The students of our university… several foreign languages.</strong> learn</p>
+<p><strong>211. Make up the sentence with these words: school, did, when, start, you?</strong> when did you start school?</p>
+<p><strong>212. Define the right tense form. He went to Almaty last week.</strong> past simple </p>
+<p><strong>213. Define the right tense form. They were writing a test at that time yesterday.</strong> past continuous </p>
+<p><strong>214. Define the right tense form. They clean the streets everyday.</strong> present simple </p>
+<p><strong>215. Define the right tense form. He invited me to the party.</strong> past simple</p>
+<p><strong>216. Define the right tense form. They will discuss this question at this time tomorrow</strong> future simple</p>
+<p><strong>217. Choose the right preposition. What kind of sport do you go __ ___?</strong> with, for</p>
+<p><strong>218. Choose the right preposition. He has … time.</strong> many</p>
+<p><strong>219. Choose the right variant: я закончила школу в прошлом году. мен мектепті өткен жылы бітірдім.</strong> I finished school last year</p>
+<p><strong>220. Choose the right variant… is your sister? She is a secretary.</strong> who</p>
+<p><strong>221. Choose the right variant. Cіз мына кітапты қайдан сатып алдыңыз? Где вы купили эту книгу? </strong> where did you buy this book?</p>
+<p><strong>222. Choose the right variant. Kез-келген студент осы сұраққа жауап бере алады. Любой студент может ответить на этот вопрос.</strong> Any student can answer this question</p>
+<p><strong>223. Choose the right variant. What text …you translate yesterday?</strong> did</p>
+<p><strong>224. Choose the right variant: … time is it?</strong> what</p>
+<p><strong>225. Choose the right variant: It’s the… job he is ever had to do.</strong> worst</p>
+<p><strong>226. Choose the right answer: What do you do?</strong> I am a student</p>
+<p><strong>227. Choose the right variant: ...queen visited a new hospital this morning.</strong> B)the</p>
+<p><strong>228. Choose the right synonym: “good”.</strong> nice</p>
+<p><strong>229. Choose the right variant: I can speak English ___ than you.</strong> better</p>
+<p><strong>230. Choose the right variant: He is ___ intelligent than I am.</strong> more</p>
+<p><strong>231. Choose the right variant: He …at the theatre yesterday.</strong> was</p>
+<p><strong>232. Choose the right variant: They … at home next weekend.</strong> will be</p>
+<p><strong>233. Choose the right variant: We … this film last Monday.</strong> watched</p>
+<p><strong>234. Choose the right variant: When my grandmother … young, she… an actress.</strong> was/was </p>
+<p><strong>235. Choose the right variant: My sister’s husband is my…</strong> brother-in-law</p>
+<p><strong>236. Choose the right variant: My sister’s son is my…</strong> nephew</p>
+<p><strong>237. Choose the right variant: My mother’s father is my…</strong> grandfather</p>
+<p><strong>238. Choose the right variant: My brother’s wife is my…</strong> sister-in-law</p>
+<p><strong>239. Choose the right variant: My sister’s daughter is my…</strong> niece</p>
+<p><strong>240. Choose the right variant: My parents’ parents are my…</strong> grandparents</p>
+<p><strong>241. Choose the right variant: This is … winter for 20 years.</strong> the worst</p>
+<p><strong>242. Choose the right variant: Plants like … light.</strong> many</p>
+<p><strong>243. Choose the right variant: Can you speak …foreign languages? </strong> any</p>
+<p><strong>244. Choose the right variant: Please, clean… blackboard. </strong> the</p>
+<p><strong>245. Choose the right variant: Are there … students in the reading room?</strong> any</p>
+<p><strong>246. Complete the sentence. He is having breakfast now, …?</strong> hasn’t he</p>
+<p><strong>247. Choose the right variant. Did Julia phone you earlier?</strong> yes, she did</p>
+<p><strong>248. Choose the right variant. Do you like hot tea?</strong> yes, I do</p>
+<p><strong>249. Complete the sentence. Our boys are playing well, …?</strong> aren’t they</p>
+<p><strong>250. Choose the right variant. We are waiting for you, ….</strong> aren’t we?</p>
+<p><strong>251. Choose the right form of the verb “to have”: She … a good weekend. </strong> had got</p>
+<p><strong>252. Choose the right form of the verb “to have”: Our students … mistakes in spelling.</strong> are having</p>
+<p><strong>253. Choose the right form of the verb in Present Simple: They …many official letters every day</strong> receives</p>
+<p><strong>254. Choose the right form of the verb in Present Simple: The Banks usually … at 9 o’clock.</strong> opens</p>
+<p><strong>255. Choose the right form of the verb in Present Simple: Asem … at one of the best companies.</strong> works</p>
+<p><strong>256. Choose the right form of the verb in Present Simple: We always … our mother’s birthday out of town.</strong> celebrate</p>
+<p><strong>257. Choose the right form of the verb in Present Simple: We often … these boys here.</strong> meet</p>
+<p><strong>258. Choose the right form of the verb in Present Simple: … she learn German or French?</strong> does</p>
+<p><strong>259. Choose the right form of the verb in Present Simple: His sisters always … me books to read.</strong> give</p>
+<p><strong>260. Choose the right form of the verb in Present Simple: … your mother have to wake you up?</strong> does</p>
+<p><strong>261. Choose the general question in Past Simple : Asel and Maira delivered the goods only in 6 months.</strong> Did Asel and Maira deliver the goods in 6 months?</p>
+<p><strong>262. Choose the general question in Past Simple: We asked their company to prolong the contract.</strong> Did we ask their company to prolong the contract?</p>
+<p><strong>263. Choose the general question in Past Simple: Abzal went to the USA to have talks.</strong> Did Abzal go to the USA to have talks?</p>
+<p><strong>264. Choose the general question in Past Simple: Mr. Tom offered his help to our businessmen.</strong> Did Tom offer his help to our businessmen?</p>
+<p><strong>265. Choose the general question in Past Simple: They signed the contract yesterday.</strong> Did they sign the contract yesterday?</p>
+<p><strong>266. Choose the general question in Past Simple: The teachers discussed all questions.</strong> Did the teachers discuss all questions?</p>
+<p><strong>267. Choose the general question in Past Simple: My brother graduated from the University last year.</strong> Did my brother graduate from the University last year?</p>
+<p><strong>268. Choose the general question in Past Simple: Aiman moved into a new flat 3 months ago.</strong> Did Aiman move into a new flat 3 months ago?</p>
+<p><strong>269. Choose the general question in Past Simple: They went to the theatre last week. </strong> Did they go to the theatre last week?</p>
+<p><strong>270. Choose the general question in Past Simple: My brother worked very hard.</strong> Did my brother work very hard?</p>
+<p><strong>271. Choose the negative form: They will study History next term.</strong> They will not study History next term</p>
+<p><strong>272. Choose the negative form: They worked at the factory last year.</strong> They did not work at the factory last year</p>
+<p><strong>273. Choose the negative form: I visited my uncle yesterday.</strong> I didn’t visit my uncle yesterday</p>
+<p><strong>274. Choose the negative form: We shall see you tomorrow.</strong> We shall not see you tomorrow</p>
+<p><strong>275. Choose the negative form: He worked at this shop last year.</strong> He didn’t work at this shop last year</p>
+<p><strong>276. Find the general question: He is in Taraz.</strong> Is he in Taraz?</p>
+<p><strong>277. Find the general question: She has a fountain pen.</strong> Has she a fountain pen?</p>
+<p><strong>278. Find the general question: His father was a doctor.</strong> Was his father a doctor?</p>
+<p><strong>279. Find the general question: The weather will be fine tomorrow.</strong> Will the weather be fine tomorrow?</p>
+<p><strong>280. Find the general question: He can swim well.</strong> Can he swim well?</p>
+<p><strong>281. Choose the negative form: They will study English next year.</strong> They will not study English  next year.</p>
+<p><strong>282. Choose the negative form: They worked here last year.</strong> They did not work here last year</p>
+<p><strong>283. Choose the negative form: I visited my parents yesterday.</strong> I didn’t visit my parents  yesterday</p>
+<p><strong>284. Choose the right translation: двадцать второй.</strong> twenty-second</p>
+<p><strong>285. Choose the right form of the personal or possessive pronouns: … friend is a manager.</strong> his </p>
+<p><strong>286. Choose the right form of the personal or possessive pronouns: … family is very big. </strong> Their</p>
+<p><strong>287. Choose the right form of the personal or possessive pronouns: I have a sister …name is Jane.</strong> her</p>
+<p><strong>288. Choose the right form of the personal or possessive pronouns: We have got a modern cottage. …cottage is large. </strong> our</p>
+<p><strong>289. Choose the right form of the personal or possessive pronouns: This bag is… .</strong> mine</p>
+<p><strong>290. Choose the right form of the verb “to have”: My sisters … two flats and my aunt … three flats.</strong> has, has</p>
+<p><strong>291. Choose the right variant: There are (неcколько)students in the room.</strong> a few</p>
+<p><strong>292. Choose the right variant: …there  anybody in the office?</strong> is</p>
+<p><strong>293. Choose the right variant: There was (немного)tea in the glass.</strong> a little</p>
+<p><strong>294. Choose the right variant: there are (много)children in the streets.</strong> much</p>
+<p><strong>295. Choose the right variant: There is no place like…</strong> home</p>
+<p><strong>296. Find the sentence in Future Simple:</strong> He will be there at eight</p>
+<p><strong>297. Find the sentence in Future Simple:</strong> We shall have a lot of work to do tomorrow</p>
+<p><strong>298. Find the sentence in Future Simple:</strong> The winter holidays will begin on the 25th of January</p>
+<p><strong>299. Find the sentence in Future Simple:</strong> He’ll finish the work if you help him</p>
+<p><strong>300. Find the sentence in Future Simple:</strong> I’ll be tomorrow morning</p>
+<p><strong>301. Find the sentence in Future Simple:</strong> What will you do after you graduate?</p>
+<p><strong>302. Find the disjunctive question:</strong> You study English, don’t you?</p>
 <eng>
 <ict_e>
 <p><strong>1. Special type of memory which is used by BIOS:</strong> ROM</p>
@@ -723,6 +905,306 @@
 <p><strong>300. Среди записей укажите правильный IP-адрес компьютера:</strong> 198.14.18.216
 <ict_r>
 <kaz>
+<p><strong>1. Қазақ тіліне тән дауысты дыбыстары бар сөзді көрсетіңіз.</strong>   көзілдірік</p>
+<p><strong>2. Жуан да, жіңішке де болатын дыбысты табыңыз.</strong>  У</p>
+<p><strong>3. Тек жуан дауысты дыбыстан тұрған қатарды көрсетіңіз.</strong>  су, бауырмал</p>
+<p><strong>4. Жіңішке дауысты сөзді табыңыз.</strong>  кілем</p>
+<p><strong>5. Тек жуан дауысты дыбысты сөздер қатарын көрсетіңіз.</strong>  Ұлытау, қуғыншы</p>
+<p><strong>6. Жуан дауысты дыбыстары бар сөзді белгілеңіз.</strong>  Сабыр</p>
+<p><strong>7. Қазақ тіліне  тән дауысты дыбыстарын белгілеңіз.</strong>  ө,ү</p>
+<p><strong>8. Тек жіңішке дауысты дыбыстар қатарын анықтаңыз.</strong>  ә,ө,і</p>
+<p><strong>9. Бірыңғай жіңішке дауысты екенін көрсетіңіз.</strong>  Ә,І,Е,Ө.</p>
+<p><strong>10. Жуан дауысты дыбыстар қатарын көрсетіңіз.</strong>  а,о</p>
+<p><strong>11. Жіңішке дауысты дыбысты көрсетіңіз.</strong>  ү</p>
+<p><strong>12. Жуан дауысты дыбыстар қатарын анықтаңыз.</strong>  ұ,о,а</p>
+<p><strong>13. «О» қандай дыбыс екенін анықтаңыз.</strong> жуан</p>
+<p><strong>14. Жіңішке дауысты дыбысты көрсетіңіз.</strong>  ә</p>
+<p><strong>15. Жуан  дауыстарды көрсетіңіз.</strong>  А,О,Ұ,Ы</p>
+<p><strong>16. Жіңішке буынды дәм атауын көрсетіңіз.</strong>  Тәтті, дәмді</p>
+<p><strong>17. Дауысты дыбыстардың еріннің қатысына қарай жіктелетін түрлерін көрсетіңіз.</strong>  еріндік, езулік</p>
+<p><strong>18. «Ы» дыбысы қойылатын сөзді көрсетіңіз.</strong>  жазғ…</p>
+<p><strong>19. Бірыңғай жіңішке дауыстылардың тұратын сөздерді көрсетіңіз.</strong>  Береке</p>
+<p><strong>20. Жіңішке буынды сөздер қатарын көрсетіңіз.</strong>  мереке, білім</p>
+<p><strong>21. Жуан дауысты сөзді табыңыз.</strong>  ғұлама</p>
+<p><strong>22. Жіңішке дауыстылар қаратын көрсетіңіз.</strong>  ө,і,е</p>
+<p><strong>23. Жіңішке дауысты дыбысты көрсетіңіз.</strong>  ө</p>
+<p><strong>24.Сын есімді табыңыз.</strong>  Қызыл</p>
+<p><strong>25.Сын есім болмайтын сөзді табыңыз.</strong>  Көз</p>
+<p><strong>26. Заттың дәмін білдіретін сөзді атаңыз.</strong>  Тәтті</p>
+<p><strong>27.Күрделі сын есім есімді табыңыз.</strong>  Қызыл ала</p>
+<p><strong>28. Сын есімді сөз тіркесін көрсетіңіз.</strong>  Адал адам</p>
+<p><strong>29.Сын есім нені білдіретінін көрсетіңіз.</strong>  Заттың түр-түсін</p>
+<p><strong>30.Қатыстық сын есім көрсетіңіз.</strong>  Жаңбырлы</p>
+<p><strong>31.Дұрыс тіркескен сөзді табыңыз.</strong>  Әдеби Тіл</p>
+<p><strong>32.Қазақстан Республикасы өз егемендігін қай жылы алды ?</strong> 1991</p>
+<p><strong>33.Күрделі сын есімді табыңыз.</strong>  Сары ала</p>
+<p><strong>34.Қандай? сұрағына жауап беретін сөзді табыңыз.</strong>  Мерекелік</p>
+<p><strong>35.Сын есімді табыңыз.</strong>  Жарық</p>
+<p><strong>36.Күрделі сын есімді табыңыз.</strong>  Орта бойлы</p>
+<p><strong>37.Сын есімді табыңыз.</strong>  Тәтті</p>
+<p><strong>38.Досыңның мінезіне сәйкес сөзді табыңыз.</strong>  Мейірімді</p>
+<p><strong>39.Негізгі сын есімді табыңыз.</strong>  Жарық</p>
+<p><strong>40.Туынды сын есімді табыңыз.</strong>  Таулы</p>
+<p><strong>41.Күрделі сын есімді көрсетіңіз.</strong> Қызыл қоңыр</p>
+<p><strong>42.Миляның бойы қандай екенін белгілеңіз.</strong>  Ұзын</p>
+<p><strong>43.–кы,кі,-ғы,-гі жұрнақтары арқылы қай сөз табы жасалатынын көрсетіңіз.</strong> Сан есім</p>
+<p><strong>44.«Арық...» сөзімен тіркесетін сын есімді табыңыз.</strong>  Қой</p>
+<p><strong>45.Күрделі сын есімді табыңыз.</strong>  Тұп-тұнық</p>
+<p><strong>46.Заттың түсін білдіретін сын есімді көрсетіңіз.</strong>  Қара, көк</p>
+<p><strong>47.Сын есімді табыңыз.</strong>  Жаңбырлы</p>
+<p><strong>48.Зат есімнен жасалған сын есімді көрсетіңіз.</strong>  Таулы жер</p>
+<p><strong>49. Зат есімнен сын есім жасап тұрған жұрнақты табыңыз.</strong>  Таулы жер</p>
+<p><strong>50.Сын есім қандай сөйлем мүшесі, белгілеңіз.</strong>  Анықтауыш</p>
+<p><strong>51.Сын есім бар сөз тіркесін табыңыз.</strong>  Сұлу әйел</p>
+<p><strong>52.Көп нүктенін орнына керекті сөзді қойыңыз. (Адамның көзі қара, бойы ұзын, мінезі ...  )</strong>  Жұмсақ</p>
+<p><strong>53.Күрделі сын есімді табыңыз.</strong>  Әп-әдемі</p>
+<p><strong>54.Сын есімнің сұрақтарын табыңыз.</strong>  Қандай? Қай?</p>
+<p><strong>55.Сын есімді табыңыз.</strong>  Жайлы</p>
+<p><strong>56.Сын есімі бар сөз тіркесін табыңыз.</strong>  Сұлу жігіт</p>
+<p><strong>57.Толықтырыңыз: «Менің отбасым ... тұрады»</strong>  Тату-тәтті</p>
+<p><strong>58.Жұрнақ арқылы жасалған туынды сын есімді табыңыз.</strong>  Салмақты,көрікті</p>
+<p><strong>59.Сын есімді табыңыз.</strong>  Аппақ</p>
+<p><strong>60.Туынды сын есімді табыңыз.</strong>  Таулы</p>
+<p><strong>61.«Қой аузынан шөп алмас» фразиологизмі қандай мінезді білдіретінен табыңыз.</strong> Момын</p>
+<p><strong>62.Сын есімді табыңыз.</strong>  Қара</p>
+<p><strong>63. Сын есімді табыңыз.</strong>  Дәмді</p>
+<p><strong>64. Сын есімді анықтаңыз</strong>  атақты</p>
+<p><strong>65. Барыс септігіндегі сөзді табыңыз.</strong>  Әншіге</p>
+<p><strong>66. Жатыс септігіндегі сөзді табыңыз.</strong>  Оңтүстікте</p>
+<p><strong>67. Жіктік жалғауының ІІ-жағында тұрған сөзді табыңыз.</strong>  Азаматсың</p>
+<p><strong>68. Көптік жалғаулы сөзді табыңыз.</strong>  Ұшақтар</p>
+<p><strong>69. Көптік жалғаулы сөзді табыңыз.</strong>  Көлдер</p>
+<p><strong>70. Көптік жалғауы жалғанған сөздерді табыңыз.</strong>  Үйірмелер,студенттер</p>
+<p><strong>71. Тәуелдік жалғауынан соң жалғанып тұрған барыс септік жалғауын табыңыз.</strong>  Әжесіне</p>
+<p><strong>72. Жатыс септігіндегі сөзді табыңыз.</strong>  Кітапта</p>
+<p><strong>73. Барыс септігіндегі сөзді табыңыз.</strong>  Анаға</p>
+<p><strong>74. Септік жалғаулы жуан буынды сөз тіркесін көрсетіңіз.</strong>  Орманды дала</p>
+<p><strong>75. Керек жалғауды таңдаңыз: Сен...  досың.</strong>  -ің</p>
+<p><strong>76. Тәуелдік жалғаудағы сөзді табыңыз.</strong>  Мамандығыңыз</p>
+<p><strong>77. Шығыс септігіндегі сөзді табыңыз.</strong>  Әншіден</p>
+<p><strong>78. Шығыс септігінін сұрағын табыңыз.</strong>  Кімнен? Неден?</p>
+<p><strong>79. Көптік жалғаулы сөзді табыңыз.</strong>  Жемістер</p>
+<p><strong>80. Көптік жалғаулы сөзді табыңыз.</strong>  Құстар</p>
+<p><strong>81. Заттың меншіктілігін білдіретін қосымшаны табыңыз.</strong>  Тәуелдік жалғау</p>
+<p><strong>82. Көптік жалғауды табыңыз.</strong>  Қызғалдақтар</p>
+<p><strong>83. Тек қатаң дауыссыз дыбыстан басталатын септік жалғауларын көрсетіңіз.</strong>  -пен,-қа,-ке,-та</p>
+<p><strong>84. Көптік жалғауды көрсетіңіз.</strong>  -лар</p>
+<p><strong>85. Ісмердің – сөзі қай септікте тұрғанын анықтаңыз.</strong>  Ілік септігінде</p>
+<p><strong>86. Кітап туралы мақал – мәтелді белгілеңіз</strong>  Күш білімде, білім - кітапта</p>
+<p><strong>87. «...........  мұратқа жеткізер, ............  абыройыңды кетірер» мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Еңбек, жалқаулық</p>
+<p><strong>88. Мақал – мәтелді табыңыз</strong>  Еңбек етсең ерінбей, тояды қарның тіленбей</p>
+<p><strong>89.Қазақстан Республикасы өз егемендігін қай жылы алды ?</strong>  1991</p>
+<p><strong>90. «......... жақын болсаң,  қолың жетер,  ........... жақын болсаң, басың кетер»  мақал – мәтелді  қажетті сөзбен толықтырыңыз </strong>  Ғылыммен, залыммен</p>
+<p><strong>91. «Білімдінің жолы - ....... « мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Даңғыл</p>
+<p><strong>92. Кітап туралы мақал – мәтелді белгілеңіз</strong>  Күш білімде, білім - кітапта</p>
+<p><strong>93. Келер шақтың жұрнақтарын белгілеңіз</strong>  -ар;-ер</p>
+<p><strong>94.Тұрлаулы мүшелерге нелер жатады?</strong>  бастауыш пен баяндауыш</p>
+<p><strong>95.Баяндауыш қандай сұрақтарға жауап береді?</strong>  не істеді?,қайтеді?</p>
+<p><strong>96.Бастауыш қандай сұрақтарға жауап береді?</strong>  кім?не?</p>
+<p><strong>97. Сөйлемдегі көп нүктенің орнына керекті сөзді қойыңыз (Біздің елімізге мемлекетімізді көркейтіп, өркендететін жас  .................  керек.)</strong>  Мамандар</p>
+<p><strong>98. «Арқанның  ...  жақсы, әңгіменің  ...  жақсы» мақалына сай келетін антонимдік жұпты табыңыз</strong>  Ұзыны – қысқасы</p>
+<p><strong>99.Көмекші етістігі бар сөз тіркесін белгілеңіз</strong>  құлап қала жаздадым</p>
+<p><strong>100.Көмекші етістікті табыңыз</strong>  еттіңіз</p>
+<p><strong>101. Болымды етістігі бар сөйлемді көрсетіңіз</strong>  Музыка кітабын әкеліп берді</p>
+<p><strong>102.Ілік септігінде тұрған «Ол» есімдігін табыңыз</strong>  оның</p>
+<p><strong>103.Жатыс септігінде тұрған есімдікті анықтаңыз</strong>  сенде</p>
+<p><strong>104.Көмектес септігінде тұрған есімдікті анықтаңыз</strong>  сонымен</p>
+<p><strong>105. «Ма, ме, ба, бе, па, пе» сұраулық шылаулары қай сөйлемде кездеседі?</strong>  Ерте(ме), кеш(пе), пайдаға(ма), зиянға(ма), сен барыңды бересің</p>
+<p><strong>106.Шығыс септігінде тұрған есімдікті анықтаңыз</strong>  осыдан</p>
+<p><strong>107. Мақалды көрсетіңіз</strong>  Жақсыдан шарапат, жаманнан кесапат</p>
+<p><strong>108. Синоним сөздердің тізбегін көрсетіңіз</strong>  Азайту, алу, кеміту, шегеру</p>
+<p><strong>109. «Білімнің  кілті - тіл»  дұрыс  аудармасын  көрсетіңіз</strong>  Язык- ключ к знаниям</p>
+<p><strong>110. Көптік жалғауды көрсетіңіз</strong>  -лар, -лер, -дар, -дер, -тар, -тер</p>
+<p><strong>111.Өтірік сөзінің антонимін табыңыз</strong>  шын,рас</p>
+<p><strong>112. Қазақ тілі түркі тілдес топтардың қайсысына жатады?</strong>  Қыпшақ</p>
+<p><strong>113.»Білім-арзан,білу-.........» мақал-мәтелді қажетті сөзбен толықтырыңыз </strong>  Қымбат</p>
+<p><strong>114. «Әдеп басы -  ........ « қанатты сөзді аяқтаңыз </strong>  Тіл</p>
+<p><strong>115. «Білімдінің жолы - .......» мақалды қажетті сөзбен толықтырыңыз </strong> Даңғыл</p>
+<p><strong>116. «Ырыс алды - ....... « мақалды қажетті сөзбен толықтырыңыз </strong>  Ынтымақ</p>
+<p><strong>117. «Білім басы - ......, соңы - ..........»  мақалды  қажетті сөзбен толықтырыңыз </strong>  бейнет,зейнет</p>
+<p><strong>118. «Оқу - ........ азығы, білім - ......... « қазығы  мақалды  қажетті сөзбен толықтырыңыз </strong>  білім,ырыс</p>
+<p><strong>119.Мекен үстеуді анықтаңыз</strong>  ілгері</p>
+<p><strong>120.Мекен үстеуді анықтаңыз</strong> .қалада</p>
+<p><strong>121.Мекен үстеудің сұрақтарын белгілеңіз</strong>  қай жерде?</p>
+<p><strong>122. Келер шақта тұрған етістікті белгілеңіз</strong> .жазбақпын</p>
+<p><strong>123.Келер шақтың жұрнақтарын белгілеңіз</strong> .-ар;-ер</p>
+<p><strong>124.Келер шақта тұрған етістікті белгілеңіз</strong>  барармын</p>
+<p><strong>125. Жедел өткен шақта тұрған етістікті табыңыз</strong>  айтты</p>
+<p><strong>126. «Ғылым  - ........, білім - ......... «  мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Теңіз, қайық</p>
+<p><strong>127. «Жердің сәні - ........., Ердің сәні - .......... « мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Егін, білім</p>
+<p><strong>128. «Оқу - ........ азығы, білім - ......... қазығы»  мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Білім,  ырыс</p>
+<p><strong>129. «Әліппенің ар жағы - ........  бағы»  мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Білім</p>
+<p><strong>130.Болымсыз етістікті анықтаңыз</strong>  барма</p>
+<p><strong>131. Өздік есімдігін белгілеңіз</strong>  өзіңіз</p>
+<p><strong>132.Жекіру одағайын белгілеңіз</strong>  тәйт</p>
+<p><strong>133. Көсемшесі бар сөйлемді анықтаңыз</strong>  Әлинұр күте тұрды</p>
+<p><strong>134. «Өз тілің - ..........үшін, өзге тілің - .......... үшін»  мақал – мәтелді  қажетті сөзбен толықтырыңыз </strong>  бірлік, тірлік</p>
+<p><strong>135. «Шеберді........асырайды»  мақал – мәтелді қажетті сөзбен толықтырыңыз </strong>  Саусағы</p>
+<p><strong>136. «Күш - .........  ,білім - ........» мақал – мәтелді  қажетті сөзбен толықтырыңыз </strong>  Білімде,кітапта</p>
+<p><strong>137. Зат есім қандай сөз табы?</strong>  заттың атын білдіретін сөз табы</p>
+<p><strong>138.Есімшені анықтаңыз?</strong>  мен жазатынмын</p>
+<p><strong>139. Сөйлемдегі көп нүктенің орнына керекті сөзді қойыңыз  (Шаңғы тебу әр жастағы адамдар арасында пайдалы, әрі ыңғайлы ...........  түрлерінің бірі болып табылады.)</strong> Спорт</p>
+<p><strong>140. Сөйлемдегі көп нүктенің орнына керекті сөзді қойыңыз  (Еңбек адамның мінезіндегі ....... сипаттарды жоюға көмектеседі)</strong>  Өзімшіл</p>
+<p><strong>141. Еш сөзі қай сөзбен бірге жазылады?</strong>  Еш (бір)</p>
+<p><strong>142. Сөйлемдегі септік жалғаулы сөзді табыңыз: Қарағанды жерінде темір, көмір көп.</strong>  Жерінде</p>
+<p><strong>143.Еліміздің Конституциясы қай жылы қабылданды?</strong> .1995 жылғы 30 тамызда</p>
+<p><strong>144.Конституция неше бөлімнен тұрады.</strong> .9 бөлімнен, 98 баптан</p>
+<p><strong>145.Егемендік сөзінің аудармасы</strong> .суверенитет</p>
+<p><strong>146.Мөлшер үстеуді анықтаңыз</strong> .қыруар</p>
+<p><strong>147.Мақсат үстеуді анықтаңыз</strong> .қасақана</p>
+<p><strong>148.Күшейткіш үстеуді анықтаңыз</strong> .аса</p>
+<p><strong>149.Себеп-салдар үстеуін анықтаңыз</strong> .босқа</p>
+<p><strong>150.Мезгіл үстеуді анықтаңыз</strong> .ертең</p>
+<p><strong>151.Мекен үстеуді анықтаңыз</strong> .төмен</p>
+<p><strong>152.Ер сөзінің синонимін анықтаңыз</strong> .батыр</p>
+<p><strong>153.Жоғары сөзінің антонимін анықтаңыз</strong> .төмен</p>
+<p><strong>154. Омонимі бар сөйлемді ажыратыңыз</strong> .Сен маған өкпе айтпа</p>
+<p><strong>155. Синонимдік қатарды көрсетіңіз.</strong>  Кінәлі,айыпты.</p>
+<p><strong>156. Өтірік сөзінің антонимін табыңыз</strong> .шын</p>
+<p><strong>157.Шынында сөзінің синонимін табыңыз.</strong> .расында</p>
+<p><strong>158. Антоним сөздерді табыңыз:</strong>  Биік, аласа.</p>
+<p><strong>159. Нақ осы шақты білдіретін сөйлемді табыңыз</strong> .Үкімет Үйінде  Республиканың Туы желбіреп тұр</p>
+<p><strong>160.Болжалдық сан есімді анықтаңыз</strong> .ондаған</p>
+<p><strong>161.Бөлшектік сан есімді анықтаңыз</strong> .төрттен бір</p>
+<p><strong>162.Реттік сан есімді анықтаңыз</strong> .екінші</p>
+<p><strong>163. Мақалды көрсетіңіз</strong> .Жақсыдан шарапат, жаманнан кесапат</p>
+<p><strong>164. Көп мағыналы сөз тіркесін көрсетіңіз</strong>  Иненің көзі</p>
+<p><strong>165.Етістікті анықтаңыз</strong>  жауды</p>
+<p><strong>166. Мәңгілік сөзінің аудармасын табыңыз</strong>  вечность</p>
+<p><strong>167. Етістіктің бұрынғы өткен шақ формасы қай сөйлемде қолданылған?</strong>  Сен, университет  бітіргенсің</p>
+<p><strong>168. Көп нүктенің орнына берілген дыбыстық еліктеуіштердің тиістісін қойыңыз . (Ол ... ете қалған дыбысқа жалт қарады)</strong> .Тарс-тұрс</p>
+<p><strong>169. Мезгіл үстеуі бар сөйлемді табыңыз</strong> .Ол бүгін би сабағына келді</p>
+<p><strong>170. Шартты райды анықтаңыз</strong> .барса</p>
+<p><strong>171.Жіктеу есімдігін анықтаңыз</strong>  мен</p>
+<p><strong>172.Сілтеу есімдігін анықтаңыз</strong>  сол</p>
+<p><strong>173.Табыс септігінде тұрған есімдікті анықтаңыз</strong> .мынаны</p>
+<p><strong>174.Салт – дәстүрді анықтаңыз</strong> .шілдехана</p>
+<p><strong>175.Қонақжайлылық сөзінің аудармасын табыңыз</strong> .гостепримство</p>
+<p><strong>176. Үстеу сөзді табыңыз</strong> .Жылдам хабар алғызды</p>
+<p><strong>177. Етістікті табыңыз. Күзде жыл құстары жылы жаққа ұшып кетеді.</strong>  Ұшып кетеді.</p>
+<p><strong>178. Сөйлемдегі есімдіктердің түрін анықтаңыз: Мен ешқашан елімді сатпаймын!</strong>  Жіктеу, болымсыздық.</p>
+<p><strong>179. Бұйрық райда тұрған сөзді табыңыз</strong>  бар</p>
+<p><strong>180.Көп нүктелердің орнына тиісті сөзді қойыңыз. Мына жұмыс тіпті .......</strong>  ауыр</p>
+<p><strong>181. Мезгіл үстеуді көрсетіңіз. Асан қаладан кеше автобуспен шықты</strong>  Кеше</p>
+<p><strong>182.Көп нүктелердің орнына тиісті тіркесті қойыңыз. (Иә, қазақ халқына ... қатысты дәстүрлер өте көп қонақ күту, ас беру, ұлттық мейрамдарды өткізу және т.б.)</strong>  өнерге</p>
+<p><strong>183.Көп нүктенің орнына тиісті сөзді қойыңыз.  (Әрбір халық өз елінің дәстүріне құрметпен ... .)</strong> .қарауы тиіс</p>
+<p><strong>184.Көп нүктенің орнына тиісті сөзді қойыңыз    Ол енді келмейтін ...</strong> .шығар</p>
+<p><strong>185.Тиісті сөзді қойыңыз Біздің қазақ халқында жақсы дәстүрлер........</strong>  көп</p>
+<p><strong>186.Қайырымды халықпыз тіркесімен мағыналық жақындықтағы тіркесті табыңыз</strong> .мейірімді</p>
+<p><strong>187.Болымды етістігі бар сөйлемді көрсетіңіз</strong> .Музыка кітабын әкеліп берді</p>
+<p><strong>188.Көп нүктенің орнына тиісті сөзді қойыңыз Сен, өз халқыңның салт-дәстүрін....</strong>  білесің бе</p>
+<p><strong>189.Реттік сан есім нені білдіретінін көрсетіңіз.</strong>  Заттың реттік санын білдіреді.</p>
+<p><strong>190.«Бала» сезіне қосылатын қосымшаны анықтаңыз.</strong>  - лық.</p>
+<p><strong>191.Сұрау есімдіктерін көрсетіңіз.</strong>  Кімдер, нелер.</p>
+<p><strong>192. Ұяң дауыссыздан басталған қосымшаны табыңыз.</strong>  Қыз-ға.</p>
+<p><strong>193. Оқу – білім туралы мақалды анықтаңыз</strong>  Оқу – білім бұлағы, білім - өмір  шырағы</p>
+<p><strong>194.Батыр туралы мақал-мәтелді табыңыз</strong>  Батыр туса  - ел ырысы, Жаңбыр жауса – жер ырысы</p>
+<p><strong>195.Атау септігінде турған сөзді белгіле</strong>  студент</p>
+<p><strong>196.Сұрау есімдігін анықтаңыз</strong> .кім?</p>
+<p><strong>197.Табыс септігіндегі сөзді белгілеңіз</strong>  студентті</p>
+<p><strong>198.Жатыс септігіндегі сөзді белгілеңіз</strong>  менде</p>
+<p><strong>199.Шығыс септігіндегі сөзді белгіле</strong>  сізден</p>
+<p><strong>200.Жалпылау есімдігін анықтаңыз</strong> .түгел</p>
+<p><strong>201.Белгісіздік есімдігін анықтаңыз</strong>  біреу</p>
+<p><strong>202.Болымсыздық есімдігін белгілеңіз</strong> .ешкім</p>
+<p><strong>203.Өздік есімдігін белгілеңіз</strong> .өзіміз</p>
+<p><strong>204.Сұрау есімдігін анықтаңыз</strong>  кім?</p>
+<p><strong>205.Қалау райды белілеңіз</strong> .жазғым келеді</p>
+<p><strong>206.Қалау райды белгілеңіз</strong> .барғым келеді</p>
+<p><strong>207. Реттік сан есімді табыңыз.</strong>  Он бірінші.</p>
+<p><strong>208. Туынды түбірді анықтаңыз.</strong>  Тазалық.</p>
+<p><strong>209. Туынды зат есімді анықтаңыз.</strong>  Оқытушы.</p>
+<p><strong>210. Қалау райлы етістіктің жұрнағын көрсетіңіз.</strong>  - ғы, - гі.</p>
+<p><strong>211. Жалғаулық шылау қатысқан сөйлемді анықтаңыздар</strong>  Біресе мәтін оқимын, біресе теледидар қараймын.</p>
+<p><strong>212. Нақ осы шақта тұрған сөйлемді көрсетіңіз</strong>  Мен  қазақ тілі сабағынан жауап беріп тұрмын</p>
+<p><strong>213. Одағайы бар сөйлемді көрсетіңіз.</strong>  Ах! Болат, сен кешегі гала-концертті көрдің бе?</p>
+<p><strong>214.Қарсылық жалғаулықтарын белгілеңіз</strong>  бірақ</p>
+<p><strong>215.Себеп – салдар жалғаулықтарын белгілеңіз</strong> .себебі</p>
+<p><strong>216.Шартты райдың  жұрнақтарын белгілеңіз</strong> .-са,-се</p>
+<p><strong>217.Атау септігінің септеулік шылауын тап</strong>  туралы</p>
+<p><strong>218.Атау септігінің септеулік шылауын тап</strong> .арқылы</p>
+<p><strong>219.Барыс септігінің септеулік шылауын тап</strong> .дейін</p>
+<p><strong>220.Барыс септігінің септеулік шылауын тап</strong> шейін</p>
+<p><strong>221.Шығыс септігінің септеулік шылауын тап</strong> бұрын</p>
+<p><strong>222. Көмекші етістікті табыңыз</strong> еттіңіз</p>
+<p><strong>223.Шығыс септігінің септеулік шылауын тап</strong> .бері</p>
+<p><strong>224.Көмектес септігінің септеулік шылауын тап</strong> .бірге</p>
+<p><strong>225.Көмектес септігінің септеулік шылауын тап</strong> .қатар</p>
+<p><strong>226.Тәуелсіз Қазақстан Республикасында  қандай мерекелер бар?</strong>  Ресми,ұлттық</p>
+<p><strong>227.Қазақ халқының ең бір жақсы тәрбиесі қандай?</strong>  үлкенді сыйлау</p>
+<p><strong>228. Берілген сөйлемді дұрыс аяқтаңыз. 9-мамыр -</strong>  Жеңіс күні</p>
+<p><strong>229.Жіктеу есімдігін анықтаңыз</strong>  біз</p>
+<p><strong>230.«Сұлу» сөзінің синонимін табыңыз.</strong> Әдемі</p>
+<p><strong>231.Буын түрін анықтаңыз.</strong> Тұйық</p>
+<p><strong>232.- дар, - дер, - тар, - тер, - лар, - лер жалғаудың қай түріне жататынын көрсетіңіз.</strong> Көптік</p>
+<p><strong>233.Синонимдік қатарды көрсетіңіз.</strong>  Зор, үлкен.</p>
+<p><strong>234. Келер шақтын жұрнақтарын белгілеңіз</strong> -ар;-ер</p>
+<p><strong>235.Үнді дыбыстары бар сөзді табыңыз.</strong>  Наным.</p>
+<p><strong>236. Мезгіл пысықтауышты табыңыз. (Биыл Қазақстан тәуелсіздігінің 30 жылдығын тойлаймыз.)</strong>  Биыл</p>
+<p><strong>237.Күзден кейін келетін жыл мезгілін көрсетіңіз.</strong>  Қыс</p>
+<p><strong>238.«Қоян жүрек» фразеологизмінің антонимін табыңыз.</strong>  Қорқақ</p>
+<p><strong>239.Синонимдік қатарды көрсетіңіз.</strong>  Кінәлі, айыпты</p>
+<p><strong>240.Жалғауы ұяң дауыссыздан басталып тұрған сөзді табыңыз:</strong>  Қайындар</p>
+<p><strong>241.Тек үнді дауыссыздары бар сөзді табыңыз.</strong>  Айман</p>
+<p><strong>242.Сөйлемдегі есімдіктердің түрін анықтаңыз: Мен ешқашан елімді сатпаймын!</strong>  Жіктеу, болымсыздық</p>
+<p><strong>243.Шартты райлы етістікті табыңыз.</strong>  Бір көрсем, арманым болмас еді</p>
+<p><strong>244.Жалғаулық шылау қатысқан сөйлемді анықтаңыздар</strong> .Біресе мәтін оқимын, біресе теледидар қараймын</p>
+<p><strong>245.Баяндауышты табыңыз. (Күзде жыл құстары жылы жаққа ұшып кетеді.)</strong>  Ұшып кетеді</p>
+<p><strong>246. Қазақстан Республикасының Ата заңы қашан қабылданды?</strong>  1995 ж.</p>
+<p><strong>247.Мақалды толықтырыңыз: «Отансыз ... - ормансыз бұлбұл»</strong>  адам.</p>
+<p><strong>248.Бірыңғай жуан буынды сөздерді көрсетіңіз.</strong>  Аш, ат, от.</p>
+<p><strong>249.Тәуелденген сын есімді табыңыз.</strong>  Сенің балаң</p>
+<p><strong>250.Реттік сан есім нені білдіретінін көрсетіңіз.</strong>  Заттың реттік санын білдіреді</p>
+<p><strong>251.«Бала» сезіне қосылатын қосымшаны анықтаңыз.</strong>  – лық</p>
+<p><strong>252.Мезгіл пысықтауыштың сұрағын табыңыз.</strong>  Қашанға дейін?</p>
+<p><strong>253.Жекіру одағайын табыңыз.</strong>  Тәйт</p>
+<p><strong>254.Синоним сөздерді табыңыз.</strong>  Әдемі, сұлу</p>
+<p><strong>255.Буынға бөлінбейтін сөзді белгілеңіз.</strong>  Серт</p>
+<p><strong>256.Сұрау есімдіктерін көрсетіңіз</strong>  Кім, не?</p>
+<p><strong>257.Сөйлем мүшелерінің санын анықтаңыз</strong>  5</p>
+<p><strong>258.Әбунасыр Әл - Фарабидің туған қаласын көрсетіңіз.</strong>  Отырар</p>
+<p><strong>259.Күзден кейін келетін жыл мезгілін көрсетіңіз.</strong>  Қыс</p>
+<p><strong>260.Сездің басында кездеспейтін дауыссыз дыбыстарды көрсетіңіз.</strong>  Ң, Й.</p>
+<p><strong>261.Ұяң дауыссыздан басталған қосымшаны табыңыз.</strong>  Қызға</p>
+<p><strong>262.Дара сын есімді көрсетіңіз.</strong>  Ақ</p>
+<p><strong>263.Реттік сан есімді табыңыз</strong>  Он бірінші</p>
+<p><strong>264.Туынды түбірді анықтаңыз</strong>  Тазалық</p>
+<p><strong>265.Туынды зат есімді анықтаңыз</strong>  Оқытушы.</p>
+<p><strong>266. Қалау райлы етістіктің жұрнағын көрсетіңіз.</strong>  - ғы, - гі</p>
+<p><strong>267.Оқшау сөздер түрлерін анықтаңыз.</strong>  Қыстырма сөз, қаратпа сез, одағай</p>
+<p><strong>268. Одағайы бар сөйлемді көрсетіңіз.</strong>  Ах! Болат сен кешегі гала-концертті көрдің бе?</p>
+<p><strong>269.Тура мағыналы сөзді табыңыз.</strong>  Жақсы адам</p>
+<p><strong>270. Пысықтауышты табыңыз. (Биыл Қазақстан тәуелсіздігінің 30 жылдығын тойлаймыз.)</strong>  Биыл</p>
+<p><strong>271.Дауыстылардың тілдің қатысына қарай түрлерін белгілеңіз.</strong>  Жуан, жіңішке</p>
+<p><strong>272.Жақсыз сөйлемді анықтаңыз.</strong>  Ананы баладан айыруға болмайды</p>
+<p><strong>273.Шартты райды анықтаңыз. (Ол жақсы оқыса, университетке түседі.)</strong>  Шартты</p>
+<p><strong>274. Синоним сөздерді көрсетіңіз</strong>  Туылу, дүниеге келу</p>
+<p><strong>275.Синонимдік қатарды көрсетіңіз.</strong>  Зор, үлкен.</p>
+<p><strong>276. Антоним сөздерді табыңыз:</strong>  Биік, аласа</p>
+<p><strong>277. Синоним сөздерді көрсетіңіз.</strong>  Туылу, дүниеге келу.</p>
+<p><strong>278.Сын есімі бар сөз тіркесін табыңыз.</strong>  Әдемі қыз.</p>
+<p><strong>279. Үнді дауыссыздарды көрсетіңіз.</strong>  Ң, Р, Л, М.</p>
+<p><strong>280. Қазақстан Республикасының Ата Заңы қашан қабылданды?</strong> 1995 ж.</p>
+<p><strong>281.Мақалды толықтырыңыз: «Отансыз- ормансыз бұлбұл»</strong>  адам.</p>
+<p><strong>282.Абай Құнанбаевтың кім екенін анықтаңыз.</strong>  Ақын</p>
+<p><strong>283. «Абай жолы» роман-эпопеясының авторын  көрсетіңіз.</strong>  М.Әуезов</p>
+<p><strong>284. Қазақстанмен шектескен мемлекеттерді көрсетіңіз.</strong>  Ресей, Түркіменстан, Өзбекстан, Қырғызстан, Қытай.</p>
+<p><strong>285.Жұрнағы бар сөзді анықтаңыз.</strong>  Мемлекеттік</p>
+<p><strong>286. Жұрнағы бар сөзді анықтаңыз.</strong>  Мемлекеттік</p>
+<p><strong>287.Қалау райда тұрған сөзді табыңыз.</strong>  Айтқым келеді.</p>
+<p><strong>288.Мезгіл пысықтауышты табыңыз.</strong>  Бұлар қыста келіп кеткен</p>
+<p><strong>289.Атаулы сөйлемді көрсетіңіз</strong>  Көктем</p>
+<p><strong>290. Болымсыздық есімдігін белгілеңіз.</strong>  Ешкім,ешқайсысы.</p>
+<p><strong>291.Болымсыздық есімдігін белгілеңіз.</strong>  Ешқашан,ешбіреу.</p>
+<p><strong>292.Мезгіл пысықтауышты табыңыз.</strong>  қыста.</p>
+<p><strong>293.Есептік сан есімді табыңыз.</strong>  Төрт</p>
+<p><strong>294.Есептік сан есімді табыңыз.</strong>  Он</p>
+<p><strong>295. Дауыстылардың тілдің қатысына қарай түрлерін белгілеңіз.</strong>  Жуан, жіңішке.</p>
+<p><strong>296. «О» дыбысы қандай дыбыс екенін анықтаңыз.</strong>  Ашық дауысты</p>
+<p><strong>297. Мақсат үстеуді табыңыз</strong>  Қонақтарға әр түрлі базарлық алу үшін, біз бірнеше дүкендерді араладық.</p>
+<p><strong>298.Құрамында шылау сөзі бар сөйлемді көрсетіңіз?</strong>  Асан мен Үсен бірге оқиды</p>
+<p><strong>299. Шылауды табыңыз.</strong>  да,д,та,те</p>
+<p><strong>300.Одағай қандай сезімді білдіреді, анықтаңыз. Бәрекелді, әжем базарлық әкелді!</strong>  Көңіл - күй.</p>
 <kaz>
 <ped>
 <p><strong>1.Основоположником научной педагогики является:</strong> Я.А. Коменский</p
@@ -1027,3 +1509,305 @@
 <p><strong>300.Принципы аттестации учителей:</strong> научность, прозрачность</p
 <p><strong>301.Автор методики коллективных творческих дел:</strong> Иванов И. П.</p>
 <ped>
+<harm>
+<p><strong>1. Понятие государства</strong>  общество, проживающее на определенной территории и имеющий аппарат управления </p>
+<p><strong>2. Понятие Конституции</strong>  нормативно-правовой акт, главный закон государства</p>
+<p><strong>3. Срок полномочий членов Конституционного Совета:</strong>  6 лет</p>
+<p><strong>4. Кто назначает кандидатуру Председателя Конституционного Совета?</strong>  Президент</p>
+<p><strong>5. Конституционный Совет состоит из…..</strong>  7 человек</p>
+<p><strong>6. Кому дано право пожизненного члена Конституционного Совета?</strong>  Экс-Президенту</p>
+<p><strong>7. Статусом казахского и русского языков в РК?</strong>  Казахский государственный, русский официальный</p>
+<p><strong>8. Какой орган может выдвинуть обвинение против Президента РК в совершении государственной измены?</strong>  Мажилис Парламента</p>
+<p><strong>9. К какой группе прав следует отнести право на получение бесплатной медицинской помощи?:</strong>  Социальным</p>
+<p><strong>10. К какой группе свобод следует отнести право граждан на свободу совести?</strong>  Социально-политическим</p>
+<p><strong>11. Что является высшим законодательным органом в РК</strong>  Парламент</p>
+<p><strong>12. Количество депутатов Сената Парламента назначаемых Президентом?</strong>  15 депутатов</p>
+<p><strong>13. Кто имеет право вводить военное положение в РК?</strong>  Президент</p>
+<p><strong>14. Какой деятельностью имеют право заниматься Члены Правительства кроме своей основной работы...</strong>  Заниматься научной деятельностью</p>
+<p><strong>15. Кто принимает решение о проведении референдума?</strong>  Президент</p>
+<p><strong>16. Кто назначается Президентом?</strong>  Генеральный прокурор</p>
+<p><strong>17. Нынешний Президент РК избран на срок:</strong>  7 лет</p>
+<p><strong>18. Одно и то же лицо может быть избрано Президентом …</strong>  Не более двух раз</p>
+<p><strong>19. Какой процент голосов необходимо получить кандидату для занятия должности Президента РК:</strong>  Более 50 %</p>
+<p><strong>20. Кандидат в Президенты РК должен быть гражданином…</strong>  Получивший его по рождению</p>
+<p><strong>21. Какой минимальный срок проживания кандидата в Президенты территории Казахстана:</strong>  15 лет</p>
+<p><strong>22. Сколько голосов имеет избиратель при голосовании?</strong>  1 голос</p>
+<p><strong>23. Что относится к личным правам:</strong>  право на свободу передвижения</p>
+<p><strong>24. К политическим правам относятся:</strong>  право на митинг</p>
+<p><strong>25. К какой группе свобод следует отнести право граждан на труд:</strong>  к социальной</p>
+<p><strong>26. К какой группе свобод следует отнести право граждан на отпуск:</strong>  к социальной</p>
+<p><strong>27. К какой группе прав следует отнести право граждан на забастовку?</strong>  Политическим</p>
+<p><strong>28. Освобождает ли незнание законов от ответственности?</strong>  Не освобождает</p>
+<p><strong>29. Время задержания лица без санкции суда в соответствии с УПК РК?</strong>  Не более 72 часов</p>
+<p><strong>30. К кому можно ходатайствовать о помиловании?</strong>  Президенту</p>
+<p><strong>31. Статья Конституции РК закрепляющая право человека на жизнь?</strong>  Ст.15</p>
+<p><strong>32. Какое должностное лица является Верховным Главнокомандующим Вооруженных Сил в РК?</strong>  Президент</p>
+<p><strong>33. Решение по вопросам гражданства может быть пересмотрено…</strong>  Президентом</p>
+<p><strong>34. Какое самое существенное право из естественных прав человека провозглашает 15 ст. Конституции РК:</strong>  Жизнь</p>
+<p><strong>35. Основанием прекращения гражданства является…</strong>  Выход из гражданства, утрата гражданства</p>
+<p><strong>36. Условием приема в гражданство является постоянное проживание на территории РК…</strong>  5 лет</p>
+<p><strong>37. Кем решается вопрос о приеме в гражданство?</strong>  Президентом</p>
+<p><strong>38. Гражданство - это…</strong>  Политико-правовая связь лица с государством</p>
+<p><strong>39. Форма государственного устройства РК…</strong>  Унитарное</p>
+<p><strong>40. Понятие федеративного государства</strong>  Государство, где существуют самостоятельные государственные образования</p>
+<p><strong>41. Высший исполнительный орган РК?</strong>  Правительство</p>
+<p><strong>42. Какой орган относятся к законодательной власти?</strong>  Парламент</p>
+<p><strong>43. Унитарное государство – это государство, где…</strong>  Деление на административно-территориальные единицы</p>
+<p><strong>44. Что такое форма правления государства:</strong>  Способ организации высшей государственной власти</p>
+<p><strong>45. Признак государства, выражающийся в верховенстве государственной власти внутри страны и её независимости вовне?</strong>  Суверенитет</p>
+<p><strong>46. Государственное устройство это:</strong>  Территориальная структура государства</p>
+<p><strong>47. В каком документе закрепляются основные права, свободы и обязанности человека и гражданина?</strong>  В Конституции</p>
+<p><strong>48. Преамбулой конституции является…</strong>  Вводная часть</p>
+<p><strong>49. Сколько статей содержится в Конституции РК от 1995 года:</strong>  98 статей</p>
+<p><strong>50. Признается ли РК двойное гражданство…</strong>  Непризнается</p>
+<p><strong>51. Правоспособность – это…</strong>  Способность быть носителем прав и обязанностей</p>
+<p><strong>52. Что понимается под избирательной системой…</strong>  Порядок формирования выборных органов</p>
+<p><strong>53. Что такое избирательное право</strong>  Это условие осуществления избирательного права</p>
+<p><strong>54. Из скольки депутатов состоит Мажилис Парламента РК?</strong>  107 депутатов</p>
+<p><strong>55. Срок полномочий Сената Парламента РК составляет:</strong>  6 лет</p>
+<p><strong>56. Срок полномочий Мажилиса Парламента РК составляет:</strong>  5 лет</p>
+<p><strong>57. Какой орган осуществляет исполнительную власть в РК?</strong>  Правительство</p>
+<p><strong>58. Сколько принципов существует, которыми руководствуется судья при отправлении правосудия?</strong>  10 принципов</p>
+<p><strong>59. Местный представительный орган…</strong>  Маслихат</p>
+<p><strong>60. Местный исполнительный орган…</strong>  Акимат</p>
+<p><strong>61. Соглашение между работодателем и работником по которому рабочий или служащий обязуется выполнять работу по определенной специальности, квалификации:</strong>  трудовой договор (контракт)</p>
+<p><strong>62. Виды трудовых договоров:</strong>  контракт</p>
+<p><strong>63. Что такое материальная ответственность?</strong>  это возмещение имущественного ущерба, причиненного по вине кого-либо</p>
+<p><strong>64. Особая категория служащих, работающих в государственных органах, учреждениях организациях, называется…</strong>  госслужащие</p>
+<p><strong>65. Локальный нормативный акт содержанием которого является соглашение между профкомом и администрацией, называется…</strong>  коллективный договор</p>
+<p><strong>66. Поездка работника по распоряжению руководителя предприятия для выполнения служебного поручения:</strong>  командировка</p>
+<p><strong>67. Ночным временем суток считается:</strong>  с 22.00 до 6.00 утра</p>
+<p><strong>68. Неурегулированные разногласия между администрацией и работником:</strong>  трудовые споры</p>
+<p><strong>69. Способность к трудовой деятельности, зависящей от состояния здоровья человека:</strong>  трудоспособность</p>
+<p><strong>70. Прекращение трудового правоотношения между рабочим с одной стороны и предприятием с другой – это…</strong>  увольнение</p>
+<p><strong>71. Система законодательных актов, социально-экономических, организационных, технических, профилактических мероприятий и средств, обеспечивающих безопасность сохранения здоровья и работоспособности человека – это…</strong>  охрана труда</p>
+<p><strong>72. Установленные работодателем обязательных правил поведения в процессе труда – это…</strong>  трудовая дисциплина</p>
+<p><strong>73. Длительная либо полная утрата трудоспособности, либо ее значительное ограничение – это…</strong>  инвалидность</p>
+<p><strong>74. Источник права, регулирующий вопросы о защите прав труда и все, с ним связанное – это: </strong>  Кодекс о труде</p>
+<p><strong>75. Способность к трудовой деятельности, зависящих от состояния здоровья человека – это…</strong>  трудоспособность</p>
+<p><strong>76. Неявка на работу без уважительных причин в течение всего рабочего времени – это…</strong>  прогул</p>
+<p><strong>77. Поощрительная выплата, получаемая трудящимся за достижения в труде – это…</strong>  премия</p>
+<p><strong>78. В каких случаях работодатель не может отказать работнику в приёме на работу?</strong>  в зависимости от пола, расы и национальной принадлежности</p>
+<p><strong>79. Каков срок дисциплинарного взыскания?</strong>  6 месяцев</p>
+<p><strong>80. Сколько предоставляется по продолжительности отпуск для работников?</strong>  24 рабочих дня</p>
+<p><strong>81. С какого возраста наступает полная материальная ответственность работников по трудовому законодательству?</strong>  С 18 лет</p>
+<p><strong>82. Сколько мер дисциплинарного взыскания достаточно получить за шесть месяцев, для увольнения?</strong>  одно дисциплинарное взыскание</p>
+<p><strong>83. Какие работники допускаются к работе в ночное время?</strong>  совершеннолетние</p>
+<p><strong>84. Каким работникам предоставляются дополнительные отпуска?</strong>  работникам, с вредными условиями труда</p>
+<p><strong>85. Прекращаются ли трудовые правоотношения при смене руководителя?</strong>  не прекращаются</p>
+<p><strong>86. Какова сфера действия Кодекса о труде?</strong>  регулирует трудовые отношения только на территории РК</p>
+<p><strong>87. Индивидуальный трудовой договор заключается…</strong>  в письменной форме, в 2-х экземплярах</p>
+<p><strong>88. Испытание при приеме на работу устанавливается на срок…</strong>  не более трех месяцев</p>
+<p><strong>89. Работник имеет право на:</strong>  возмещение вреда, причиненного его здоровью</p>
+<p><strong>90. В какой форме заключается трудовой контракт?</strong>  в письменной</p>
+<p><strong>91. Сколько часов в неделю для рабочих и служащих от 16 - 18 лет предусмотрено законодательством?</strong>  36 часов</p>
+<p><strong>92. Ежегодные отпуска предоставляются работникам, проработавшим…</strong>  12 месяцев</p>
+<p><strong>93. Работникам моложе 18 лет ежегодный отпуск предоставляется продолжительностью...</strong>  1 календарный месяц</p>
+<p><strong>94. Работа сверх продолжительности рабочего времени, установленного законодательством, называется…</strong>  сверхурочное рабочее время</p>
+<p><strong>95. Содержание, предоставляемое несовершеннолетним и нетрудоспособным, нуждающимся гражданам, назначаемое по решению суда, называется…</strong>  алименты</p>
+<p><strong>96. Постановление суда первой инстанции, которым гражданское дело разрешается по существу – это…</strong>  решение суда</p>
+<p><strong>97. В каких случаях супруг или супруга имеют право расторгнуть брак без согласия одной из сторон?</strong>  В случае осуждения супруга или супруги сроком более 3 лет</p>
+<p><strong>98. Брачный контракт содержит:</strong>  вопросы имущественного характера</p>
+<p><strong>99. Правовая форма защиты прав и интересов ребенка в возрасте от 14 до 18 лет называется:</strong>  попечительство</p>
+<p><strong>100. Правовая форма защиты прав и интересов детей, не достигших 14 лет, и лиц, признанных судом недееспособными называется:</strong>  опека </p>
+<p><strong>101. Равноправный союз между мужчиной и женщиной, заключенный при свободном и полном согласии, порождающий имущественные и личные права и обязанности – это:</strong>  брак</p>
+<p><strong>102. Суррогатное материнство – это…</strong>  возможность вынашивания искусственно оплодотворенного зародыша для конкретной семьи</p>
+<p><strong>103. Правовая форма передачи ребенка на воспитание в семью на основании судебного решения, в результате которого возникают личные и имущественные права и обязанности:</strong>  усыновление</p>
+<p><strong>104. В каких случаях брак расторгается по заявлению одного из супругов?</strong>  при признание одного из супругов безвестно отсутствующим</p>
+<p><strong>105. В каком размере взыскиваются алименты на содержание одного несовершеннолетнего ребенка?</strong>  25 % с заработка родителя</p>
+<p><strong>106. В каком размере взыскиваются алименты на содержание двух несовершеннолетних детей?</strong>  1/3 часть заработной платы</p>
+<p><strong>107. Над кем не устанавливается опека?</strong>  над пенсионерами</p>
+<p><strong>108. В каком размере взыскиваются алименты на содержание трех и более детей?</strong>  50 % заработной платы родителя</p>
+<p><strong>109. Над кем устанавливается попечительство?</strong>  над всеми перечисленными лицами</p>
+<p><strong>110. Не раздельной собственностью супругов считается…</strong>  собственность, оставленная в наследство супругу</p>
+<p><strong>111. Не раздельной собственностью супругов считается…</strong>  собственность, оставленная в наследство супругу</p>
+<p><strong>112. Недействительным брак признаётся, заключенный…</strong>  между двоюродными братьями и сестрами</p>
+<p><strong>113. Недействительным брак признаётся, заключенный…</strong>  между двоюродными братьями и сестрами</p>
+<p><strong>114. Какие родители лишаются родительских прав?</strong>  не способные материально обеспечить своих детей</p>
+<p><strong>115. Какие права теряют родители, лишенные родительских прав?</strong>  получать алименты с детей</p>
+<p><strong>116. Принадлежность лица к определенному государству, порождающая взаимные юридические права и обязанности – это…</strong>  гражданство</p>
+<p><strong>117. С какого возраста наступает в полном объеме дееспособность гражданина РК?</strong>  с 18 лет</p>
+<p><strong>118. Отрасль права, регулирующая имущественные и связанные с ними личные неимущественные отношения – это…</strong>  Гражданское право</p>
+<p><strong>119. Распоряжение о своем имуществе на случай смерти, сделанное в установленной законной форме – это…</strong>  Завещание</p>
+<p><strong>120. Дееспособность это…</strong>  Возможность самостоятельно своими действиями приобретать права и налагать обязанности</p>
+<p><strong>121. Какой вид собственности признается и защищается в РК?</strong>  Равным образом государственная и частная собственность</p>
+<p><strong>122. В чьей собственности находятся недра, воды, флора и фауна РК?</strong>  В государственной собственности</p>
+<p><strong>123. Форма обращения в суд за защитой нарушенного или оспариваемого права – это…</strong>  исковое заявление</p>
+<p><strong>124. Какой орган может признать гражданина недееспособным?</strong>  Суд</p>
+<p><strong>125. На какой минимальный срок выдается доверенность?</strong>  на 3 месяца</p>
+<p><strong>126. К какой из ниже перечисленных категорий дееспособности граждан относятся лица в возрасте от 14 до 18 лет?</strong>  частично дееспособные граждане</p>
+<p><strong>127. В каком году вошел в силу Гражданский кодекс РК?</strong>  в 1995 году</p>
+<p><strong>128. Документ, выдаваемый компетентным органом государства и удостоверяющий признание предложения изображением, приоритет изобретения, называется…</strong>  патент</p>
+<p><strong>129. Совокупность юридических норм, устанавливающих виды налогов в данном государстве, порядок их взимания и регулирующих отношения связанные с налоговыми обязательствами – это…</strong>  налоговое законодательство</p>
+<p><strong>130. Действия, направленные на установление, изменение и прекращение гражданских прав и обязанностей – это…</strong>  сделка</p>
+<p><strong>131. Конкретная обязанность, совокупность взаимосвязанных обязанностей, принимаемых одной из договаривающихся сторон по отношению к другой стороне – это…</strong>  обязательство</p>
+<p><strong>132. Организация, учреждение, предприятие, обладающее обособленным имуществом и т.п., называется…</strong>  юридическое лицо</p>
+<p><strong>133. События и действия, с которыми закон связывает наступление определенных правовых последствий, то есть возникновение, прекращение или изменение гражданских прав и обязанностей – это…</strong>  юридические факты</p>
+<p><strong>134. Участвующие в гражданском процессе лица (юридические и физические лица) заинтересованные в исходе спора между сторонами – это…</strong>  третьи лица</p>
+<p><strong>135. Неисполнение или исполнение по истечении установленного срока предусмотренного обязательством действия – это…</strong>  просрочка</p>
+<p><strong>136. Правовое отношение в котором на одной стороне выступает кредитор, а на другой должник:</strong>  обязательство</p>
+<p><strong>137. В гражданском праве - договор, согласно которому одно лицо обязывается перед кредитором другого лица-должника отвечать за исполнения, гарантия обязательства:</strong>  поручительство</p>
+<p><strong>138. Юридическое (процессуальное) действие, проявляющееся в обращении заинтересованного лица в суд первой инстанции с требованием о защите прав:</strong>  иск</p>
+<p><strong>139. Ответ лица, которому адресована оферта о ее принятии:</strong>  акцепт</p>
+<p><strong>140. Адресованное одному или нескольким лицам предложение, которое достаточно определенно выражает намерение лица, сделавшего предложение – это…</strong>  оферта</p>
+<p><strong>141. Какие лица признаются в судебном порядке ограниченно дееспособными?</strong>  хронические алкоголики и наркоманы</p>
+<p><strong>142. Обозначение, служащее для отличия товаров или услуг одних предпринимателей от однородных товаров, выпускаемых другими предпринимателями – это…</strong>  товарный знак</p>
+<p><strong>143. Ценная бумага, удостоверяющая членство в акционерном обществе и связанные с членством имущественные и неимущественные права – это…</strong>  акция</p>
+<p><strong>144. Способ обеспечения доказательства, при котором кредитор приобретает право в случае неисполнения должником обязательств получить удовлетворение за счет заложенного имущества преимущественно перед другими кредиторами:</strong>  залог</p>
+<p><strong>145. В каком случае закон имеет обратную силу ?</strong>  если он устраняет преступность и наказуемость деяния, смягчает ответственность и наказание</p>
+<p><strong>146. Совокупность признаков, характеризующих конкретное общественно опасное деяние, как преступление называется…</strong>  составом преступления</p>
+<p><strong>147. Преступлениями против животного и растительного мира, называется…</strong>  экологические преступления</p>
+<p><strong>148. Лицо, совершившее преступление в состоянии опьянения…</strong>  не освобождается от уголовной ответственности</p>
+<p><strong>149. Кто осуществляет контроль за обращением на территории республики иностранных ценных бумаг и ценных бумаг, выраженных в иностранной валюте</strong>  министерством финансов</p>
+<p><strong>150. Выделение денежных средств из государственного денежного фонда юридическим или физическим лицам, носящее целевой характер</strong>  субсидия</p>
+<p><strong>151. Политические гарантии законности</strong>  стабильное развитие общества</p>
+<p><strong>152. Культурные права человека и гражданина</strong>  право на свободный выбор языка общения</p>
+<p><strong>153. Особенности первобытнообщинного строя</strong>  совместная трудовая деятельность</p>
+<p><strong>154. Виды форм правления</strong>  конституционная монархия</p>
+<p><strong>155. Источники права</strong>  юридический прецедент</p>
+<p><strong>156. Преступление - это</strong>  деяния за которое предусматривается уголовная ответственность</p>
+<p><strong>157. Элементы структуры правового статуса человека</strong>  правовые принципы</p>
+<p><strong>158. Конституционные законы – это</strong>  законы, закрепляющие основы государственного строя</p>
+<p><strong>159. Обладает ли Президент РК правом принимать законы?</strong>  предусмотренные в Конституции РК</p>
+<p><strong>160. На какой основной источник опирается наука Конституционное право?</strong>  на Конституцию</p>
+<p><strong>161. Когда был принят Закон «О выборах в РК»?</strong>  28.09.95г.</p>
+<p><strong>162. Через какие государственные органы подается заявление о выходе из гражданства?</strong>  МВД и МИД</p>
+<p><strong>163. По вопросам приема гражданства издается …</strong>  указ</p>
+<p><strong>164. При отклонении ходатайства о гражданстве, издается …</strong>  указ</p>
+<p><strong>165. Кто решает вопрос предоставления политического убеждения?</strong>  Президент</p>
+<p><strong>166. Премьер – министр представляет доклад о Программе Правительства … </strong>  Парламенту</p>
+<p><strong>167. Брак заключается между лицами, если они достигли …</strong>  18 лет</p>
+<p><strong>168. С какого возраста гражданин РК может участвовать в голосовании?</strong>  с 18 лет</p>
+<p><strong>169. Пассивное избирательное право – это право граждан быть избранными …</strong>  Депутатом Мажилиса Парламента</p>
+<p><strong>170. Кандидатом в Президенты РК может быть лицо, достигшее …</strong>  40 лет</p>
+<p><strong>171. Последние сколько лет должен прожить на территории РК кандидат в Президенты РК?</strong>  15 лет</p>
+<p><strong>172. Депутатом Мажилиса Парламента РК может быть избран гражданин РК, достигший …</strong>  25 лет</p>
+<p><strong>173. Кандидатом в депутаты Маслихата РК может быть избран гражданин РК с … </strong>  20 лет</p>
+<p><strong>174. Высший орган избирательной системы в РК – это …</strong>  ЦИК РК</p>
+<p><strong>175. Мажоритарная система – это …</strong>  Система, избранным считается кандидат, набравший более 50 % голосов</p>
+<p><strong>176. Полномочия Президента начинаются с момента …</strong>  принятия присяги</p>
+<p><strong>177. Полномочия Президента прекращаются с момента …</strong>  вступления в должность вновь избранного Президента</p>
+<p><strong>178. Президент РК избирается сроком на:</strong>  5 лет</p>
+<p><strong>179. Очередные выборы Президента РК проводятся …</strong>  в первое воскресенье декабря</p>
+<p><strong>180. Полномочия Президента прекращаются с момента …</strong>  вступления в должность вновь избранного Президента</p>
+<p><strong>181. Кандидат в депутаты Сената Парламента может быть лицо, достигшее …</strong>  30 лет</p>
+<p><strong>182. Какой из перечисленных документов является основой деятельности Правительства?</strong>  программа</p>
+<p><strong>183. В какой срок должны вноситься предложения о структуре и составе Правительства?</strong>  10 дней</p>
+<p><strong>184. Кто может исполнять обязанности Президента в случае его смерти?</strong>  Председатель Сената</p>
+<p><strong>185. Кто может отклонить отставку члена Правительства?</strong>  Президент</p>
+<p><strong>186. Что такое денежная единица?</strong>  это установленный государством денежный знак</p>
+<p><strong>187. Валютное регулирование-это…</strong>  установленное государством порядок проведения валютных операций </p>
+<p><strong>188. В материальном смысле государственные финансы представляют собой…</strong>  совокупность денежных средств, находящиеся в собственности РК </p>
+<p><strong>189. Административное право это:</strong>  система административно-правовых норм</p>
+<p><strong>190. Административное право относится:</strong>  К публичной отрасли</p>
+<p><strong>191. Предметом административного права являются:</strong>  Отношения в сфере деятельности органов гос. управления</p>
+<p><strong>192. Предметом административного права не могут являться:</strong>  Отношения в сфере деятельности политических партий</p>
+<p><strong>193. Предметом административного права являются:</strong>  Отношения в сфере реализации исполнительной власти</p>
+<p><strong>194. Административное право изучает:</strong>  Управление в системе гос. органов и организаций</p>
+<p><strong>195. Административное право как самостоятельная отрасль права возникла:</strong>  В 18 веке</p>
+<p><strong>196. Какое из названий было характерно для административного права в прошлом?</strong>  Полицейское право</p>
+<p><strong>197. Административное право как наука зародилось:</strong>  В странах Европы</p>
+<p><strong>198. Какие из стран исторически внесли наибольший вклад в развитие административного права?</strong>  Франция и Германия</p>
+<p><strong>199. Методами административного права являются:</strong>  Императивный и диспозитивный</p>
+<p><strong>200. Административное право в большей степени использует:</strong>  Предписания и запреты</p>
+<p><strong>201. Метод административного права используемый при установлении сроков получения гражданами удостоверения личности-это…</strong>  позитивное обязывание</p>
+<p><strong>202. Метод используемый при установлении ответственности за административный проступок-это…</strong>  наложение ограничений</p>
+<p><strong>203. Метод позитивного обязывания – это…</strong>  произвести действие</p>
+<p><strong>204. Административное право делится на:</strong>  Общую и особенную части</p>
+<p><strong>205. В институт общей части административного права входят…</strong>  Граждане как субъекты</p>
+<p><strong>206. Особенная часть административного права включает…</strong>  Управление в различных сферах общественной жизни</p>
+<p><strong>207. К какой из перечисленных отраслей наиболее близко административное право?</strong>  Конституционному праву</p>
+<p><strong>208. Какие из перечисленных ниже видов норм предоставляют должностным лицам государственно - властные полномочия?</strong>  уполномачивающие</p>
+<p><strong>209. Основной особенностью административных правоотношений является то, что:</strong>  в правоотношениях присутствуют гос. органы</p>
+<p><strong>210. Административно-правовые отношения не могут складываться </strong>  между гос. предприятием и гражданином</p>
+<p><strong>211. По форме предписания административно-правовые нормы являются:</strong>  Как правило императивными</p>
+<p><strong>212. Официальным источником опубликования законов являются:</strong>  Ведомости Парламента РК</p>
+<p><strong>213. Отрасль права, регулирующая общественные отношения, связанные с совершением преступных деяний, назначением наказания и применением иных мер уголовно-правового характера</strong>  уголовное право</p>
+<p><strong>214. Субъективная сторона преступления</strong>  вина, мотив, цель</p>
+<p><strong>215. Субъект преступления это:</strong>  физическое лицо, совершившее общественно опасное деяние, запрещенное Уголовным кодексом</p>
+<p><strong>216. Виновно совершенное общественно опасное деяние, запрещенное уголовным законом под угрозой наказания</strong>  преступление</p>
+<p><strong>217. Совершение умышленного преступления лицом, имеющим судимость за ранее совершенное умышленное преступление, признается…</strong>  рецидив</p>
+<p><strong>218. Условием привлечения к уголовной ответственности являются:</strong>  достижение определенного возраста; вменяемость</p>
+<p><strong>219. Уголовной ответственности за перечисленные преступления: убийство; умышленное причинение тяжкого вреда здоровью; умышленное причинение средней тяжести вреда здоровью; похищение человека; изнасилование подлежит лицо, достигшее ко времени совершения преступления…</strong>  четырнадцатилетнего возраста</p>
+<p><strong>220. Виновным в преступлении признается лицо, совершившее деяние…</strong>  умышленно или по неосторожности</p>
+<p><strong>221. Если лицо осознавало общественную опасность своих действий (бездействия), предвидело возможность наступления общественно опасных последствий, не желало, но сознательно допускало эти последствия либо относилось к ним безразлично.</strong>  Косвенный умысел </p>
+<p><strong>222. Если лицо осознавало общественную опасность своих действий (бездействия), предвидело возможность или неизбежность наступления общественно опасных последствий и желало их наступления</strong>  прямой умысел</p>
+<p><strong>223. Преступление совершенное организованной группой, если оно совершено устойчивой группой лиц, заранее объединившихся для совершения одного или нескольких преступлений, считается совершенным…</strong>  группой лиц по предварительному сговору</p>
+<p><strong>224. С какого возраста лицо может быть привлечено к уголовной ответственности?</strong>  С 16 лет за все преступления</p>
+<p><strong>225. То, на что посягает лицо, совершившее преступное деяние к чему причиняется вред, в результате преступления</strong>  объект преступления</p>
+<p><strong>226. Юридические факты, происходящие независимо от воли людей:</strong>  пожар</p>
+<p><strong>227. Принципы законности:</strong>  Единство закона</p>
+<p><strong>228. Закон — это:</strong>  нормативный правовой акт </p>
+<p><strong>229. Юридическая ответственность — это…</strong>  обязанность правонарушителя нести наказание</p>
+<p><strong>230. Соблюдать конституцию, законы, уважать права и обязанности других лиц, платить налоги, служить в армии, заботиться о памятниках культуры, сохранять природу-это.</strong>  обязанность граждан</p>
+<p><strong>231. Политико-правовая связь человека с государством, в результате которой у обоих субъектов возникают права и обязанности-это…</strong>  гражданство</p>
+<p><strong>232. К политическим правам граждан относятся:</strong>  право избирать и быть избранными</p>
+<p><strong>233. Территориальная организация (устройство) государства обозначается определением :</strong>  государственное устройство</p>
+<p><strong>234. Чем отличаются иностранные граждане от лиц без гражданства?</strong>  Иностранцы принадлежат к какому-либо государству</p>
+<p><strong>235. В каком нормативно-правовом акте закрепляются основные права, свободы и обязанности человека и гражданина?</strong>  В Конституции</p>
+<p><strong>236. Как приобретаются права и свободы человека?</strong>  Принадлежат человеку от рождения</p>
+<p><strong>237. Могут ли быть ограничены права и свободы граждан?</strong>  в целях охраны общественного порядка</p>
+<p><strong>238. К правам и свободам граждан первого поколения относятся:</strong>  гражданские и политические права</p>
+<p><strong>239. К личным правам граждан относятся:</strong>  защита, чести</p>
+<p><strong>240.Систему исполнительных органов в Казахстане возглавляет…</strong>  Правительство РК</p>
+<p><strong>241. В силу какого юридического факта гражданин республики имеет права и несет обязанности?</strong>  В силу гражданства</p>
+<p><strong>242. При наследовании имущество умершего переходит к другим лицам в порядке универсального правопреемства</strong>  в неизменном виде как единое целое и в один и тот же момент</p>
+<p><strong>243. Наследование регулируется …</strong>  ГК РК</p>
+<p><strong>244. При отсутствии завещания наследование регулируется положениями</strong>  ГК РК</p>
+<p><strong>245. В состав наследства входят принадлежавшие наследодателю на момент открытия наследства</strong>  вещи, включая деньги и ценные бумаги, имущественные права и обязанности</p>
+<p><strong>246. Не входят в состав наследства</strong>  права и обязанности, неразрывно связанные с личностью наследодателя</p>
+<p><strong>247. Основанием возникновения наследования по завещанию является</strong>  составление завещания наследодателем</p>
+<p><strong>248. Основанием не возникновения, изменения, прекращения наследственного правоотношения является</strong>  лишение наследодателем наследника наследственных прав</p>
+<p><strong>249. Дополнительное решение суда о лишении наследника прав на наследство в случае установления судом оснований, устраняющих наследников от наследования</strong>  не требуется</p>
+<p><strong>250. В роли наследодателя могут выступать:</strong>  физические лица</p>
+<p><strong>251. Не имеют права на составление завещания граждане</strong>  недееспособные и ограниченно дееспособные</p>
+<p><strong>252. При открытии наследства у наследника возникает право</strong>  принять наследство либо отказаться от него</p>
+<p><strong>253. После принятия наследства у наследника возникает право</strong>  получить свидетельство о наследстве</p>
+<p><strong>254. Впервые в мире отменил преимущества мужского пола над женским и ввел равный раздел наследства:</strong>  Конвент после Французской революции 1792 г.</p>
+<p><strong>255. Завещатель вправе лишить наследства</strong>  наследников по закону</p>
+<p><strong>256. Завещатель в своем завещании указывать причину лишения наследства наследника по закону</strong>  не обязан</p>
+<p><strong>257. Завещатель вправе завещать имущество по своему усмотрению</strong>  любым лицам</p>
+<p><strong>258. Завещатель вправе совершить завещание в отношении</strong>  любого имущества, в том числе и того, которое он сможет приобрести в будущем</p>
+<p><strong>259. О совершении, содержании, изменении или отмене завещания гражданин</strong>  не обязан сообщать кому-либо</p>
+<p><strong>260. Завещатель может совершить завещание в пользу</strong>  одного или нескольких лиц, как входящих, так и не входящих в круг наследников по закону</p>
+<p><strong>261. Нотариус, удостоверяющий завещание, не вправе до открытия наследства разглашать сведения, касающиеся</strong>  содержания завещания, факта его совершения, изменения или отмены</p>
+<p><strong>262. Самая первая конституция в мире была принята в:</strong>  1878</p>
+<p><strong>263. В каком году была принята первая конституция в РК?</strong>  1993 г</p>
+<p><strong>264. Когда была принята Декларация о государственной независимости РК?</strong>  16.12.1991</p>
+<p><strong>265. Какое государство первым признало Казахстан независимым?</strong>  Турция</p>
+<p><strong>266. Судебная система РК возглавляется:</strong>  Верховным судом</p>
+<p><strong>267. Возраст наступления административной ответственности:</strong>  18 лет</p>
+<p><strong>268. Квалификационные требования, предъявляемые для областного судьи </strong>  30 лет и стаж работы 5 лет</p>
+<p><strong>269. Возраст вступления в брак по законодательству РК:</strong>  18 лет</p>
+<p><strong>270. Смертная казнь не применяется в отношении:</strong>  женщин и детей до 18 лет, стариков за 65 лет</p>
+<p><strong>271. Имущество, полученное в дар является … супруга </strong>  личной собственностью</p>
+<p><strong>272. Какой источник права имеет высшую юридическую силу и прямое действие в Республике Казахстан?</strong>  Конституция РК</p>
+<p><strong>273. Основополагающие принципы образования и функционирования федерации:</strong>  Добровольность </p>
+<p><strong>274. Правовое государство как организация политической власти:</strong>  Осуществляет защиту прав человека и гражданина </p>
+<p><strong>275. Основания деления права на отрасли:</strong>  предмет правового регулирования</p>
+<p><strong>276. Меры уголовной ответственности:</strong>  Лишение свободы </p>
+<p><strong>277. Политические гарантии законности:</strong>  Стабильное развитие общества</p>
+<p><strong>278. Культурные права человека и гражданина:</strong>  Право на свободный выбор языка общения</p>
+<p><strong>279. Виды форм правления:</strong>  Конституционная монархия</p>
+<p><strong>280. Членство гражданина Республики Казахстан в политической партии: </strong>  Фиксированное</p>
+<p><strong>281. Источники права:</strong>  нормативно-правовой акт</p>
+<p><strong>282. Основанием признания завещания недействительным может являться подписание завещания вместо завещателя следующими свидетелями</strong>  лицом, в пользу которого составлено завещание</p>
+<p><strong>283. Свидетелями составления и подписания завещания могут быть только</strong>  лица, дееспособные и не заинтересованные в содержании завещания</p>
+<p><strong>284. Лицо, подписывающее завещание вместе с завещателем, является</strong>  нотариусом</p>
+<p><strong>285. Основными задачами уголовного процесса являются</strong>  справедливое судебное разбирательстве</p>
+<p><strong>286. Презумпция невиновности означает, что каждый считается невиновным, пока</strong>  его виновность не будет доказана приговором суда, вступившим в законную силу</p>
+<p><strong>287. Потерпевший это лицо, которому непосредственно преступлением</strong>  причинен физический вред</p>
+<p><strong>288. Фактические данные должны быть признаны не допустимыми в качестве доказательств, если они получены</strong>  с применением пытки насилия, угроз, обмана</p>
+<p><strong>289. Принципы уголовного процесса - это</strong> основные, наиболее общие и руководящие правовые положения</p>
+<p><strong>290. К обстоятельствам, исключающим уголовное преследование</strong>  истечение срока давности </p>
+<p><strong>291. Основания отсрочки исполнения приговора</strong> беременность осужденной и наличие малолетних детей</p>
+<p><strong>292. Задачами уголовно-процессуального закона</strong>  нахождение преступника и его разоблачение</p>
+<p><strong>293. Основными видами уголовно-процессуальных норм являются</strong>  обеспечивающие наказание</p>
+<p><strong>294. Ночное время по УПК РК</strong>  начинается в 22.00</p>
+<p><strong>295. Основополагающие принципы образования и функционирования федерации</strong>  добровольность</p>
+<p><strong>296. Представительным государственным органом в Республике Казахстан</strong>  сенат</p>
+<p><strong>297. Правовое государство как организация политической власти</strong>  последовательно связывает с помощью права государственную власть</p>
+<p><strong>298. Основания деления права на отрасли</strong>  предмет правового регулирования</p>
+<p><strong>299. Объекты правовых отношений</strong>  предметы материального мира</p>
+<p><strong>300. Меры уголовной ответственности</strong>  смертная казнь</p>
+<harm>

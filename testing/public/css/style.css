@@ -7,5 +7,5 @@
 body {
 	display: none;
 	background: #E6E6E6;
-	/*overflow-y: hidden;*/
+	overflow-y: scroll;
 }

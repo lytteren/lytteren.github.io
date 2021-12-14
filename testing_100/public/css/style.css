@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: none;
+	background: #E6E6E6;
+	/*overflow-y: hidden;*/
+}
+
+.disable {
+	pointer-events: none !important;
+	opacity: .7;
+}

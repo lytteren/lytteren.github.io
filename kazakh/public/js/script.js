@@ -11,8 +11,8 @@ $(document).ready(function () {
 	questions_obj = {};
 
 	$.get('/testing/kazakh/public/js/question.txt', function(data) {
-		all = data.split('\n');
-		questions = all.sort(() => 0.5 - Math.random()).slice(0, 25);
+		all = data.split('\n').slice(0, 100);
+		questions = all.sort(() => 0.5 - Math.random());
 		for (i = 1; i <= questions.length; i++) {
 			el = questions[i - 1].split('~');
 			if (el[0].indexOf('123') !== -1) console.log('xxx');
@@ -50,7 +50,7 @@ $(document).ready(function () {
 	});
 
 	$('body').on('click', '.b-answers li', function () {
-		if (count < 25) {
+		if (count < 100) {
 			count += 1;
 		}
 
@@ -72,7 +72,7 @@ $(document).ready(function () {
 		}
 	})
 
-	$('body').on('click', '.block-25 li', function () {
+	$('body').on('click', '.block-100 li', function () {
 		$('.block').css({
 			'display': 'block',
 			'pointer-events': 'none',

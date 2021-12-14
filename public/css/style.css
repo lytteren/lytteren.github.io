@@ -7,31 +7,10 @@
 body {
 	display: none;
 	background: #E6E6E6;
-	overflow-y: scroll;
+	/*overflow-y: hidden;*/
 }
 
-.form-group {
-	position: relative;
-}
-
-.form-group label {
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	left: 13px;
-	pointer-events: none;
-	transition: .2s ease;
-	color: #495057;
-}
-
-.jumbotron {
-	font-weight: 400;
-	color: #495057;
-	background-color: #fff;
-	border: 1px solid #ced4da;
-	border-radius: 0.25rem;
-}
-
-p {
-	display: none;
+.disable {
+	pointer-events: none !important;
+	opacity: .7;
 }

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+* {
+	font-family: 'Comfortaa', cursive;
+	/*font-size: 18px;*/
+}
+
+body {
+	background: transparent;
+}
+
+.wrapper {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	overflow: hidden;
+}
+
+.sketchbook {
+	position: relative;
+	display: block;
+	width: 1748px;
+	height: 2480px;
+	outline: 1px solid orange;
+	text-align: center;
+}
+
+img {
+	margin: -45px;
+}

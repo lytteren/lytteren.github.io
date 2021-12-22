@@ -6,7 +6,7 @@ $(document).ready(function () {
 
 	questions = [];
 	$.ajax({
-		url: "/public/js/question.txt",
+		url: "/eng/public/js/question.txt",
 		async: false,
 		cache: false,
 		dataType: "text",

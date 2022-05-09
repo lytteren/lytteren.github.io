@@ -14,6 +14,7 @@ $(document).ready(function () {
 			dataType: "text",
 			success: function(data) {
 				data = data.split(tag);
+				
 				$('.jumbotron').html(data[1]);
 
 				var filter = $('.form-control').val(), count = 0;

@@ -10,7 +10,7 @@ $(document).ready(function () {
 	correct = 0;
 	questions_obj = {};
 
-	$.get('/testing/harmonization/public/js/question.txt', function(data) {
+	$.get('/testing/psychology/public/js/question.txt', function(data) {
 		all = data.split('\n');
 		questions = all.sort(() => 0.5 - Math.random()).slice(0, 25);
 		for (i = 1; i <= questions.length; i++) {

@@ -15,7 +15,7 @@ $(document).ready(function () {
 		questions = all.sort(() => 0.5 - Math.random()).slice(0, 25);
 		for (i = 1; i <= questions.length; i++) {
 			el = questions[i - 1].split('~');
-			if (el[0].indexOf('123') !== -1) console.log('xxx');
+			// if (el[0].indexOf('123') !== -1) console.log('xxx');
 			// console.log(el);
 			// console.log(el[5]);
 			$('.blocks').append($('<div>', {

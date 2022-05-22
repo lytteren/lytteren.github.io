@@ -18,6 +18,7 @@ $(document).ready(function () {
 			// if (el[0].indexOf('123') !== -1) console.log('xxx');
 			// console.log(el);
 			// console.log(el[5]);
+			console.log(el)
 			$('.blocks').append($('<div>', {
 				'class': 'p-5 col-md-12 col-11 block block-' + i,
 				'text': el[0].replaceAll('"', ''),
@@ -45,7 +46,6 @@ $(document).ready(function () {
 					}
 				}
 				return html;
-				console.log(html)
 			})))
 		}
 	});
